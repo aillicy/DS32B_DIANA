@@ -1,0 +1,1001 @@
+,OrderID,Tanggal_Pesanan,Produk,Kategori,Wilayah,Jumlah,Harga_Satuan,Metode_Pembayaran,Diskon,Total_Penjualan,Bulan
+0,1,2025-04-10 15:24:43.861623,Smartphone,Elektronik,Denpasar,3,9210715,Bank Transfer,0.15,23487323.25,2025-04
+1,2,2025-06-26 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,3,625469,Debit Card,0.0,1876407.0,2025-06
+2,3,2025-03-31 15:24:43.861623,Smartwatch,Aksesoris,Makassar,4,2675154,E-Wallet,0.05,10165585.2,2025-03
+3,4,2025-01-12 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,23526086,Debit Card,0.05,67049345.099999994,2025-01
+4,5,2025-04-14 15:24:43.861623,Monitor Curved,Periferal,Medan,2,5243087,Debit Card,0.05,9961865.299999999,2025-04
+5,6,2025-03-10 15:24:43.861623,Monitor Curved,Periferal,Medan,4,2909711,Debit Card,0.0,11638844.0,2025-03
+6,7,2025-01-18 15:24:43.861623,Monitor Curved,Periferal,Medan,2,5711584,Credit Card,0.0,11423168.0,2025-01
+7,8,2025-04-10 15:24:43.861623,Monitor Curved,Periferal,Medan,3,3619715,E-Wallet,0.0,10859145.0,2025-04
+8,9,2025-04-29 15:24:43.861623,Monitor Curved,Periferal,Medan,3,4590310,Debit Card,0.1,12393837.0,2025-04
+9,10,2025-03-13 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,21314768,Debit Card,0.1,38366582.4,2025-03
+10,11,2025-03-26 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,11324454,Bank Transfer,0.0,11324454.0,2025-03
+11,12,2025-04-24 15:24:43.861623,Smartwatch,Aksesoris,Makassar,3,1127387,E-Wallet,0.0,3382161.0,2025-04
+12,13,2025-04-07 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,834995,Debit Card,0.1,751495.5,2025-04
+13,14,2025-04-11 15:24:43.861623,Smartphone,Elektronik,Medan,3,11064220,Bank Transfer,0.05,31533027.0,2025-04
+14,15,2025-05-29 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,1098843,Bank Transfer,0.1,988958.7000000001,2025-05
+15,16,2025-05-08 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,2244613,Credit Card,0.0,2244613.0,2025-05
+16,17,2025-05-27 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,1143441,Bank Transfer,0.0,1143441.0,2025-05
+17,18,2025-02-19 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,1135684,Debit Card,0.05,2157799.6,2025-02
+18,19,2024-12-30 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,457022,Credit Card,0.05,434170.89999999997,2024-12
+19,20,2025-03-26 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,1930844,Credit Card,0.0,1930844.0,2025-03
+20,21,2025-06-04 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,1297858,Debit Card,0.0,1297858.0,2025-06
+21,22,2025-02-04 15:24:43.861623,Smartphone,Elektronik,Makassar,3,5456070,E-Wallet,0.0,16368210.0,2025-02
+22,23,2025-05-07 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,789626,Bank Transfer,0.0,789626.0,2025-05
+23,24,2025-01-18 15:24:43.861623,Smartphone,Elektronik,Medan,3,3288859,Credit Card,0.0,9866577.0,2025-01
+24,25,2025-06-07 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,8008341,E-Wallet,0.15,6807089.85,2025-06
+25,26,2025-02-24 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,855462,Debit Card,0.0,855462.0,2025-02
+26,27,2025-01-19 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,16546236,Bank Transfer,0.1,29783224.8,2025-01
+27,28,2025-03-27 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,11982913,Bank Transfer,0.0,35948739.0,2025-03
+28,29,2025-02-15 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,363037,Credit Card,0.05,344885.14999999997,2025-02
+29,30,2025-02-25 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,6759834,Bank Transfer,0.15,17237576.7,2025-02
+30,31,2025-06-16 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,5627988,Bank Transfer,0.0,16883964.0,2025-06
+31,32,2025-01-12 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1982789,Bank Transfer,0.0,7931156.0,2025-01
+32,33,2025-06-21 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,904366,Bank Transfer,0.0,1808732.0,2025-06
+33,34,2025-02-17 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,15502420,Debit Card,0.0,31004840.0,2025-02
+34,35,2025-04-15 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,554249,E-Wallet,0.05,1053073.0999999999,2025-04
+35,36,2025-02-21 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1338199,Debit Card,0.1,4817516.4,2025-02
+36,37,2025-03-02 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1360902,Debit Card,0.0,5443608.0,2025-03
+37,38,2025-05-08 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,1409004,Credit Card,0.0,2818008.0,2025-05
+38,39,2025-02-17 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,4,1770073,Bank Transfer,0.0,7080292.0,2025-02
+39,40,2025-05-12 15:24:43.861623,Monitor Curved,Periferal,Denpasar,4,6153585,Debit Card,0.05,23383623.0,2025-05
+40,41,2025-01-18 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,2385996,Bank Transfer,0.0,9543984.0,2025-01
+41,42,2025-03-11 15:24:43.861623,Monitor Curved,Periferal,Makassar,2,7430484,Debit Card,0.0,14860968.0,2025-03
+42,43,2025-06-13 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,18246417,Debit Card,0.05,34668192.3,2025-06
+43,44,2025-01-15 15:24:43.861623,Smartphone,Elektronik,Medan,2,4352144,Credit Card,0.05,8269073.6,2025-01
+44,45,2025-05-09 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,2251330,E-Wallet,0.0,9005320.0,2025-05
+45,46,2025-03-27 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,1271248,E-Wallet,0.05,2415371.1999999997,2025-03
+46,47,2025-02-26 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,6657851,Debit Card,0.0,26631404.0,2025-02
+47,48,2025-01-11 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,21695306,Credit Card,0.0,21695306.0,2025-01
+48,49,2025-01-06 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1484446,Bank Transfer,0.1,5344005.600000001,2025-01
+49,50,2025-03-28 15:24:43.861623,Smartphone,Elektronik,Denpasar,3,5607411,Bank Transfer,0.05,15981121.35,2025-03
+50,51,2025-02-19 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,1359325,Debit Card,0.0,2718650.0,2025-02
+51,52,2025-05-07 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,2429057,E-Wallet,0.0,4858114.0,2025-05
+52,53,2025-03-22 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,525019,Credit Card,0.0,1575057.0,2025-03
+53,54,2025-03-30 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,897218,E-Wallet,0.0,3588872.0,2025-03
+54,55,2025-04-18 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,1117052,Bank Transfer,0.0,1117052.0,2025-04
+55,56,2025-06-18 15:24:43.861623,Smartphone,Elektronik,Medan,3,10596585,E-Wallet,0.0,31789755.0,2025-06
+56,57,2025-01-05 15:24:43.861623,Monitor Curved,Periferal,Denpasar,3,6913705,Bank Transfer,0.0,20741115.0,2025-01
+57,58,2025-06-21 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,4,21269324,Credit Card,0.05,80823431.2,2025-06
+58,59,2025-02-01 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,1401928,Credit Card,0.05,2663663.1999999997,2025-02
+59,60,2025-03-19 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,4,724127,Debit Card,0.05,2751682.6,2025-03
+60,61,2025-06-10 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,3,2800343,Debit Card,0.0,8401029.0,2025-06
+61,62,2025-02-16 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,928864,E-Wallet,0.15,2368603.1999999997,2025-02
+62,63,2025-04-11 15:24:43.861623,Monitor Curved,Periferal,Jakarta,2,3244289,Credit Card,0.1,5839720.2,2025-04
+63,64,2025-05-09 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,842939,Credit Card,0.1,1517290.2,2025-05
+64,65,2024-12-30 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,6282972,Debit Card,0.1,11309349.6,2024-12
+65,66,2025-05-11 15:24:43.861623,Smartphone,Elektronik,Medan,4,11692832,Bank Transfer,0.1,42094195.2,2025-05
+66,67,2025-02-20 15:24:43.861623,Smartphone,Elektronik,Medan,2,7414473,E-Wallet,0.0,14828946.0,2025-02
+67,68,2025-04-13 15:24:43.861623,Smartphone,Elektronik,Medan,3,5711793,E-Wallet,0.0,17135379.0,2025-04
+68,69,2025-01-01 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,2162073,Debit Card,0.05,6161908.05,2025-01
+69,70,2025-02-20 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,952959,Credit Card,0.05,905311.0499999999,2025-02
+70,71,2025-05-23 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,17319124,Debit Card,0.05,65812671.199999996,2025-05
+71,72,2025-02-10 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,18923227,Debit Card,0.0,18923227.0,2025-02
+72,73,2025-06-08 15:24:43.861623,Smartphone,Elektronik,Medan,3,5073290,Debit Card,0.0,15219870.0,2025-06
+73,74,2025-01-11 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,2138454,Debit Card,0.0,2138454.0,2025-01
+74,75,2025-04-02 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,1048321,Bank Transfer,0.1,2830466.7,2025-04
+75,76,2025-02-14 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,17518970,Bank Transfer,0.0,17518970.0,2025-02
+76,77,2025-01-12 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,1104590,Credit Card,0.0,2209180.0,2025-01
+77,78,2025-02-06 15:24:43.861623,Monitor Curved,Periferal,Denpasar,1,5088272,Debit Card,0.0,5088272.0,2025-02
+78,79,2025-03-20 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,16055675,Bank Transfer,0.0,32111350.0,2025-03
+79,80,2025-04-18 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,2522550,Credit Card,0.1,4540590.0,2025-04
+80,81,2025-02-19 15:24:43.861623,Monitor Curved,Periferal,Surabaya,4,5564375,Debit Card,0.05,21144625.0,2025-02
+81,82,2025-01-21 15:24:43.861623,Smartphone,Elektronik,Medan,2,10436754,E-Wallet,0.05,19829832.599999998,2025-01
+82,83,2025-05-31 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,2,15965188,Bank Transfer,0.0,31930376.0,2025-05
+83,84,2025-05-01 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,17161088,Credit Card,0.05,16303033.6,2025-05
+84,85,2025-02-07 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,23018006,E-Wallet,0.0,69054018.0,2025-02
+85,86,2025-06-03 15:24:43.861623,Monitor Curved,Periferal,Medan,4,4320484,Debit Card,0.05,16417839.2,2025-06
+86,87,2025-01-12 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,1125836,Debit Card,0.0,2251672.0,2025-01
+87,88,2025-02-11 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,15487510,Debit Card,0.0,61950040.0,2025-02
+88,89,2025-03-03 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,9354986,Bank Transfer,0.05,8887236.7,2025-03
+89,90,2025-03-27 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,22609964,Credit Card,0.1,40697935.2,2025-03
+90,91,2025-03-09 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,1,20795250,E-Wallet,0.0,20795250.0,2025-03
+91,92,2025-01-06 15:24:43.861623,Monitor Curved,Periferal,Denpasar,4,6055447,Credit Card,0.1,21799609.2,2025-01
+92,93,2025-03-26 15:24:43.861623,Smartphone,Elektronik,Medan,1,4673879,Bank Transfer,0.0,4673879.0,2025-03
+93,94,2025-05-06 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,4780752,Credit Card,0.0,19123008.0,2025-05
+94,95,2025-05-13 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,6293331,Bank Transfer,0.0,6293331.0,2025-05
+95,96,2025-03-01 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,1574772,Debit Card,0.0,6299088.0,2025-03
+96,97,2025-05-16 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,6764455,E-Wallet,0.0,20293365.0,2025-05
+97,98,2025-03-19 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,841214,Debit Card,0.0,841214.0,2025-03
+98,99,2025-05-13 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,11791690,Credit Card,0.0,11791690.0,2025-05
+99,100,2025-06-09 15:24:43.861623,Monitor Curved,Periferal,Jakarta,3,2201139,Debit Card,0.1,5943075.3,2025-06
+100,101,2025-06-09 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,1728494,E-Wallet,0.0,5185482.0,2025-06
+101,102,2025-01-30 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,18904722,Debit Card,0.05,17959485.9,2025-01
+102,103,2025-04-30 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,8215622,E-Wallet,0.0,24646866.0,2025-04
+103,104,2025-01-02 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,1049714,E-Wallet,0.05,1994456.5999999999,2025-01
+104,105,2025-02-07 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,4,988315,Debit Card,0.0,3953260.0,2025-02
+105,106,2025-01-25 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,392601,Bank Transfer,0.0,1570404.0,2025-01
+106,107,2025-05-12 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1378532,Credit Card,0.0,5514128.0,2025-05
+107,108,2025-03-10 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,1686916,Bank Transfer,0.0,3373832.0,2025-03
+108,109,2025-01-09 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,3,929085,Bank Transfer,0.0,2787255.0,2025-01
+109,110,2025-06-08 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,24906695,Debit Card,0.05,70984080.75,2025-06
+110,111,2025-01-30 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,1,821486,Credit Card,0.1,739337.4,2025-01
+111,112,2025-02-14 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,3603103,Credit Card,0.1,9728378.1,2025-02
+112,113,2025-05-28 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,339279,Bank Transfer,0.05,322315.05,2025-05
+113,114,2025-02-28 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,16989968,Debit Card,0.0,33979936.0,2025-02
+114,115,2025-02-03 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,20303943,Credit Card,0.0,81215772.0,2025-02
+115,116,2025-04-06 15:24:43.861623,Smartphone,Elektronik,Medan,4,8497191,Bank Transfer,0.0,33988764.0,2025-04
+116,117,2025-06-18 15:24:43.861623,Monitor Curved,Periferal,Surabaya,4,7933384,Credit Card,0.0,31733536.0,2025-06
+117,118,2025-04-11 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,4257008,Debit Card,0.0,12771024.0,2025-04
+118,119,2025-02-01 15:24:43.861623,Smartphone,Elektronik,Medan,1,9473507,Debit Card,0.0,9473507.0,2025-02
+119,120,2025-04-08 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,10437693,Debit Card,0.0,10437693.0,2025-04
+120,121,2025-06-21 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,1243693,Credit Card,0.0,2487386.0,2025-06
+121,122,2025-05-08 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,3,1901352,E-Wallet,0.1,5133650.4,2025-05
+122,123,2024-12-29 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,423257,Credit Card,0.05,804188.2999999999,2024-12
+123,124,2025-01-02 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,1,1279062,E-Wallet,0.0,1279062.0,2025-01
+124,125,2025-05-19 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,1,1717630,Debit Card,0.1,1545867.0,2025-05
+125,126,2025-04-10 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1275217,Bank Transfer,0.15,4335737.8,2025-04
+126,127,2025-01-24 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,23173321,E-Wallet,0.0,69519963.0,2025-01
+127,128,2025-05-14 15:24:43.861623,Smartphone,Elektronik,Medan,1,10899284,Debit Card,0.0,10899284.0,2025-05
+128,129,2025-01-12 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,4003171,Debit Card,0.0,16012684.0,2025-01
+129,130,2025-03-28 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,10214938,E-Wallet,0.1,27580332.6,2025-03
+130,131,2025-02-08 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,5900737,Bank Transfer,0.1,10621326.6,2025-02
+131,132,2025-05-01 15:24:43.861623,Monitor Curved,Periferal,Surabaya,3,3370485,Debit Card,0.0,10111455.0,2025-05
+132,133,2025-06-25 15:24:43.861623,Smartphone,Elektronik,Medan,3,10045900,E-Wallet,0.0,30137700.0,2025-06
+133,134,2025-03-01 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,1,412990,Bank Transfer,0.0,412990.0,2025-03
+134,135,2025-04-03 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,1818095,Bank Transfer,0.0,1818095.0,2025-04
+135,136,2025-02-18 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,3981883,Debit Card,0.0,11945649.0,2025-02
+136,137,2025-04-03 15:24:43.861623,Monitor Curved,Periferal,Denpasar,1,3668321,Credit Card,0.1,3301488.9,2025-04
+137,138,2025-05-09 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,1013226,Credit Card,0.05,962564.7,2025-05
+138,139,2025-05-28 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,6293705,Debit Card,0.1,5664334.5,2025-05
+139,140,2025-05-20 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,2318702,Bank Transfer,0.1,8347327.2,2025-05
+140,141,2025-06-17 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,326806,Debit Card,0.05,1241862.8,2025-06
+141,142,2025-01-26 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,715384,E-Wallet,0.0,2146152.0,2025-01
+142,143,2025-02-02 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,370119,Credit Card,0.05,351613.05,2025-02
+143,144,2025-01-10 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,929720,E-Wallet,0.0,3718880.0,2025-01
+144,145,2025-06-06 15:24:43.861623,Monitor Curved,Periferal,Medan,3,3519603,Debit Card,0.05,10030868.549999999,2025-06
+145,146,2025-03-09 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,16750740,Debit Card,0.0,16750740.0,2025-03
+146,147,2025-03-24 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,3863403,Bank Transfer,0.05,7340465.699999999,2025-03
+147,148,2025-01-25 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,24268511,Bank Transfer,0.0,24268511.0,2025-01
+148,149,2025-03-04 15:24:43.861623,Monitor Curved,Periferal,Makassar,1,2885421,Bank Transfer,0.0,2885421.0,2025-03
+149,150,2025-06-16 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,7278384,E-Wallet,0.0,29113536.0,2025-06
+150,151,2025-02-11 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,1701367,Bank Transfer,0.0,5104101.0,2025-02
+151,152,2025-02-28 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,1278836,Debit Card,0.05,3644682.5999999996,2025-02
+152,153,2025-05-11 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,5223522,Bank Transfer,0.05,19849383.599999998,2025-05
+153,154,2025-01-25 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,692985,Credit Card,0.0,692985.0,2025-01
+154,155,2025-01-25 15:24:43.861623,Monitor Curved,Periferal,Medan,2,4217181,Bank Transfer,0.0,8434362.0,2025-01
+155,156,2025-04-15 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,1,579830,E-Wallet,0.0,579830.0,2025-04
+156,157,2025-02-10 15:24:43.861623,Smartphone,Elektronik,Makassar,1,4556518,Credit Card,0.0,4556518.0,2025-02
+157,158,2025-03-22 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,861931,Credit Card,0.0,1723862.0,2025-03
+158,159,2025-01-27 15:24:43.861623,Smartphone,Elektronik,Medan,4,7113640,Credit Card,0.1,25609104.0,2025-01
+159,160,2025-03-13 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,19500398,E-Wallet,0.0,58501194.0,2025-03
+160,161,2025-05-05 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,4,983404,Debit Card,0.0,3933616.0,2025-05
+161,162,2025-03-30 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,687732,Bank Transfer,0.0,2750928.0,2025-03
+162,163,2025-05-06 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,10880317,Credit Card,0.0,10880317.0,2025-05
+163,164,2025-04-28 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,1166183,Credit Card,0.0,3498549.0,2025-04
+164,165,2025-01-24 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,3,1022893,Credit Card,0.05,2915245.05,2025-01
+165,166,2025-04-28 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1141965,Debit Card,0.0,4567860.0,2025-04
+166,167,2025-04-23 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,2,1044710,Debit Card,0.0,2089420.0,2025-04
+167,168,2024-12-31 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,5895958,E-Wallet,0.0,23583832.0,2024-12
+168,169,2025-04-10 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,1032543,Debit Card,0.0,2065086.0,2025-04
+169,170,2025-06-01 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,1151157,Bank Transfer,0.0,3453471.0,2025-06
+170,171,2025-05-14 15:24:43.861623,Monitor Curved,Periferal,Makassar,4,7300885,E-Wallet,0.15,24823009.0,2025-05
+171,172,2025-02-28 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,1665898,E-Wallet,0.05,1582603.0999999999,2025-02
+172,173,2025-06-11 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,1638360,Bank Transfer,0.0,6553440.0,2025-06
+173,174,2025-02-17 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,17120539,Bank Transfer,0.0,51361617.0,2025-02
+174,175,2025-06-18 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,3880412,Bank Transfer,0.0,3880412.0,2025-06
+175,176,2025-05-29 15:24:43.861623,Smartphone,Elektronik,Makassar,1,8947148,E-Wallet,0.0,8947148.0,2025-05
+176,177,2025-02-25 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,18231185,E-Wallet,0.05,34639251.5,2025-02
+177,178,2025-04-25 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,2941281,E-Wallet,0.05,2794216.9499999997,2025-04
+178,179,2025-06-06 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,1,2392110,Bank Transfer,0.0,2392110.0,2025-06
+179,180,2025-04-03 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,2317875,Bank Transfer,0.0,9271500.0,2025-04
+180,181,2025-06-26 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,20923098,Credit Card,0.0,62769294.0,2025-06
+181,182,2025-04-20 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,2,1628337,Debit Card,0.1,2931006.6,2025-04
+182,183,2025-02-28 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,4,1184814,Credit Card,0.05,4502293.2,2025-02
+183,184,2025-02-18 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1926134,Bank Transfer,0.0,1926134.0,2025-02
+184,185,2025-01-09 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,1993431,E-Wallet,0.0,1993431.0,2025-01
+185,186,2025-02-05 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,2330668,Bank Transfer,0.05,4428269.2,2025-02
+186,187,2025-05-07 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,4599908,Debit Card,0.0,13799724.0,2025-05
+187,188,2025-05-08 15:24:43.861623,Monitor Curved,Periferal,Jakarta,2,4164412,Credit Card,0.0,8328824.0,2025-05
+188,189,2025-04-20 15:24:43.861623,Smartphone,Elektronik,Medan,4,8309792,Credit Card,0.0,33239168.0,2025-04
+189,190,2025-04-08 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,17353847,E-Wallet,0.05,32972309.299999997,2025-04
+190,191,2025-04-20 15:24:43.861623,Monitor Curved,Periferal,Surabaya,1,4630146,Credit Card,0.0,4630146.0,2025-04
+191,192,2025-03-19 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,5892478,Credit Card,0.0,23569912.0,2025-03
+192,193,2025-04-20 15:24:43.861623,Monitor Curved,Periferal,Surabaya,1,3984117,Bank Transfer,0.1,3585705.3000000003,2025-04
+193,194,2024-12-30 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,8949852,Credit Card,0.0,26849556.0,2024-12
+194,195,2025-05-07 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,1,429725,Credit Card,0.0,429725.0,2025-05
+195,196,2025-02-20 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,3888036,Credit Card,0.0,3888036.0,2025-02
+196,197,2025-03-25 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,1274631,E-Wallet,0.0,2549262.0,2025-03
+197,198,2025-05-06 15:24:43.861623,Monitor Curved,Periferal,Medan,1,4662761,E-Wallet,0.05,4429622.95,2025-05
+198,199,2025-05-24 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,21524559,Bank Transfer,0.0,86098236.0,2025-05
+199,200,2025-05-03 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,4,1282599,Credit Card,0.0,5130396.0,2025-05
+200,201,2025-05-07 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,815872,E-Wallet,0.0,2447616.0,2025-05
+201,202,2025-02-19 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,4,355147,E-Wallet,0.05,1349558.5999999999,2025-02
+202,203,2025-06-18 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,17398083,Bank Transfer,0.05,33056357.7,2025-06
+203,204,2025-06-06 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,544839,Debit Card,0.0,1634517.0,2025-06
+204,205,2025-06-06 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,4,756162,Credit Card,0.0,3024648.0,2025-06
+205,206,2025-03-06 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,1246015,E-Wallet,0.05,2367428.5,2025-03
+206,207,2025-04-30 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,1843657,Bank Transfer,0.0,7374628.0,2025-04
+207,208,2025-05-22 15:24:43.861623,Smartphone,Elektronik,Medan,4,8627745,Bank Transfer,0.1,31059882.0,2025-05
+208,209,2025-02-04 15:24:43.861623,Smartphone,Elektronik,Medan,1,6911146,Bank Transfer,0.1,6220031.4,2025-02
+209,210,2025-01-21 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,2340920,E-Wallet,0.1,8427312.0,2025-01
+210,211,2025-03-07 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,4707017,Credit Card,0.0,18828068.0,2025-03
+211,212,2025-04-23 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,15689556,Debit Card,0.0,31379112.0,2025-04
+212,213,2025-04-05 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,1092095,Credit Card,0.05,2074980.5,2025-04
+213,214,2025-05-16 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,2953722,Bank Transfer,0.0,2953722.0,2025-05
+214,215,2025-05-21 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,2349729,Bank Transfer,0.0,9398916.0,2025-05
+215,216,2025-04-04 15:24:43.861623,Monitor Curved,Periferal,Jakarta,1,3116271,Debit Card,0.1,2804643.9,2025-04
+216,217,2025-05-01 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,731116,Credit Card,0.1,2632017.6,2025-05
+217,218,2025-03-08 15:24:43.861623,Monitor Curved,Periferal,Medan,3,5099555,Bank Transfer,0.0,15298665.0,2025-03
+218,219,2025-03-31 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,1367609,Bank Transfer,0.0,4102827.0,2025-03
+219,220,2024-12-31 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,1,15516409,Credit Card,0.0,15516409.0,2024-12
+220,221,2025-05-25 15:24:43.861623,Smartphone,Elektronik,Medan,1,3666165,Bank Transfer,0.1,3299548.5,2025-05
+221,222,2025-06-10 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,991211,Credit Card,0.1,892089.9,2025-06
+222,223,2025-05-24 15:24:43.861623,Smartwatch,Aksesoris,Makassar,2,1943085,Bank Transfer,0.0,3886170.0,2025-05
+223,224,2025-03-28 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,19476321,Credit Card,0.0,38952642.0,2025-03
+224,225,2025-05-24 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,18710388,Debit Card,0.1,33678698.4,2025-05
+225,226,2025-05-25 15:24:43.861623,Smartphone,Elektronik,Medan,1,6235192,Bank Transfer,0.0,6235192.0,2025-05
+226,227,2025-04-03 15:24:43.861623,Smartphone,Elektronik,Denpasar,4,4935090,Debit Card,0.0,19740360.0,2025-04
+227,228,2025-02-18 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,1445182,Bank Transfer,0.15,3685214.1,2025-02
+228,229,2025-06-07 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,6937270,Bank Transfer,0.0,6937270.0,2025-06
+229,230,2025-06-14 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,1116978,E-Wallet,0.05,2122258.1999999997,2025-06
+230,231,2025-05-05 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,1333316,Credit Card,0.0,2666632.0,2025-05
+231,232,2025-02-05 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,1169049,Debit Card,0.0,1169049.0,2025-02
+232,233,2025-03-20 15:24:43.861623,Monitor Curved,Periferal,Medan,1,6819075,Debit Card,0.1,6137167.5,2025-03
+233,234,2025-04-11 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,7742297,Debit Card,0.0,15484594.0,2025-04
+234,235,2025-05-06 15:24:43.861623,Monitor Curved,Periferal,Denpasar,4,5868452,Credit Card,0.15,19952736.8,2025-05
+235,236,2025-01-08 15:24:43.861623,Smartphone,Elektronik,Makassar,2,11074037,E-Wallet,0.0,22148074.0,2025-01
+236,237,2025-06-24 15:24:43.861623,Smartphone,Elektronik,Medan,2,4312743,Debit Card,0.0,8625486.0,2025-06
+237,238,2025-05-28 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,1,1043942,Credit Card,0.0,1043942.0,2025-05
+238,239,2025-06-05 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,22420105,Bank Transfer,0.0,89680420.0,2025-06
+239,240,2025-02-08 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,15104195,Debit Card,0.0,30208390.0,2025-02
+240,241,2025-04-06 15:24:43.861623,Monitor Curved,Periferal,Medan,2,7276728,Debit Card,0.0,14553456.0,2025-04
+241,242,2025-01-04 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,19101036,E-Wallet,0.0,57303108.0,2025-01
+242,243,2025-05-21 15:24:43.861623,Monitor Curved,Periferal,Makassar,1,7127187,Debit Card,0.0,7127187.0,2025-05
+243,244,2025-03-28 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,5165251,Debit Card,0.05,14720965.35,2025-03
+244,245,2025-04-19 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,3,1877852,Bank Transfer,0.05,5351878.2,2025-04
+245,246,2025-02-26 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,2420023,Credit Card,0.05,4598043.7,2025-02
+246,247,2025-04-20 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,1186275,Credit Card,0.0,1186275.0,2025-04
+247,248,2024-12-30 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,4,698871,E-Wallet,0.0,2795484.0,2024-12
+248,249,2025-05-06 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,11268541,Bank Transfer,0.05,21410227.9,2025-05
+249,250,2025-02-14 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,4,1557655,Credit Card,0.0,6230620.0,2025-02
+250,251,2025-05-17 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,17949281,Bank Transfer,0.0,71797124.0,2025-05
+251,252,2025-02-03 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,1364605,Credit Card,0.1,1228144.5,2025-02
+252,253,2025-06-06 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,4294929,Bank Transfer,0.05,12240547.649999999,2025-06
+253,254,2025-01-06 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,707442,E-Wallet,0.0,707442.0,2025-01
+254,255,2025-04-06 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,4,16243294,Debit Card,0.0,64973176.0,2025-04
+255,256,2025-05-24 15:24:43.861623,Monitor Curved,Periferal,Medan,2,5567675,E-Wallet,0.05,10578582.5,2025-05
+256,257,2025-02-14 15:24:43.861623,Monitor Curved,Periferal,Surabaya,4,2896816,Credit Card,0.0,11587264.0,2025-02
+257,258,2025-05-08 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,1517502,E-Wallet,0.05,2883253.8,2025-05
+258,259,2025-05-25 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,17414802,Debit Card,0.05,33088123.799999997,2025-05
+259,260,2025-05-29 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,1143031,E-Wallet,0.1,1028727.9,2025-05
+260,261,2025-02-20 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,4,1390668,Credit Card,0.0,5562672.0,2025-02
+261,262,2025-04-27 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,9444345,Credit Card,0.0,28333035.0,2025-04
+262,263,2025-06-07 15:24:43.861623,Smartphone,Elektronik,Makassar,4,5790373,E-Wallet,0.05,22003417.4,2025-06
+263,264,2025-05-29 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,6916643,Debit Card,0.05,26283243.4,2025-05
+264,265,2025-04-23 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,2485516,E-Wallet,0.05,7083720.6,2025-04
+265,266,2025-03-13 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,590998,Debit Card,0.0,590998.0,2025-03
+266,267,2025-04-20 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,4,961616,Bank Transfer,0.0,3846464.0,2025-04
+267,268,2025-06-10 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,16828022,Debit Card,0.1,60580879.2,2025-06
+268,269,2025-06-12 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,21367712,Bank Transfer,0.05,40598652.8,2025-06
+269,270,2025-04-11 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,16409854,E-Wallet,0.1,59075474.4,2025-04
+270,271,2025-03-22 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,3,581360,Debit Card,0.05,1656876.0,2025-03
+271,272,2025-04-19 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,17444026,Bank Transfer,0.0,34888052.0,2025-04
+272,273,2025-04-06 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,17515419,Bank Transfer,0.05,16639648.049999999,2025-04
+273,274,2025-05-30 15:24:43.861623,Smartphone,Elektronik,Surabaya,2,8532410,Bank Transfer,0.1,15358338.0,2025-05
+274,275,2025-03-31 15:24:43.861623,Monitor Curved,Periferal,Jakarta,3,6138286,Credit Card,0.0,18414858.0,2025-03
+275,276,2025-05-23 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,3,1691210,E-Wallet,0.05,4819948.5,2025-05
+276,277,2025-05-05 15:24:43.861623,Monitor Curved,Periferal,Makassar,2,7127992,Bank Transfer,0.0,14255984.0,2025-05
+277,278,2025-04-17 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,2830939,Debit Card,0.0,2830939.0,2025-04
+278,279,2025-03-20 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,845909,Bank Transfer,0.05,1607227.0999999999,2025-03
+279,280,2025-02-20 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,1,23333100,Credit Card,0.0,23333100.0,2025-02
+280,281,2025-06-09 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,2,1002272,E-Wallet,0.0,2004544.0,2025-06
+281,282,2025-06-15 15:24:43.861623,Monitor Curved,Periferal,Makassar,3,7695888,Credit Card,0.0,23087664.0,2025-06
+282,283,2025-06-07 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,2569059,Credit Card,0.0,10276236.0,2025-06
+283,284,2025-03-06 15:24:43.861623,Monitor Curved,Periferal,Makassar,4,2311955,Credit Card,0.0,9247820.0,2025-03
+284,285,2025-01-30 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,2827599,Debit Card,0.0,2827599.0,2025-01
+285,286,2025-05-19 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,2925198,E-Wallet,0.1,2632678.2,2025-05
+286,287,2025-01-18 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,1,1139290,E-Wallet,0.0,1139290.0,2025-01
+287,288,2025-02-14 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,1965070,Debit Card,0.0,5895210.0,2025-02
+288,289,2025-05-25 15:24:43.861623,Smartwatch,Aksesoris,Medan,2,1341147,E-Wallet,0.0,2682294.0,2025-05
+289,290,2025-05-05 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,888490,Credit Card,0.05,2532196.5,2025-05
+290,291,2025-05-13 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,22323494,E-Wallet,0.0,89293976.0,2025-05
+291,292,2025-05-12 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,1204409,Debit Card,0.1,1083968.1,2025-05
+292,293,2025-05-22 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,22867791,Credit Card,0.05,43448802.9,2025-05
+293,294,2025-05-05 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,816595,Debit Card,0.05,3103061.0,2025-05
+294,295,2025-01-30 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,4,1063689,Bank Transfer,0.0,4254756.0,2025-01
+295,296,2025-06-22 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,4,465937,Credit Card,0.05,1770560.5999999999,2025-06
+296,297,2025-04-22 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,1395426,Credit Card,0.0,4186278.0,2025-04
+297,298,2025-04-26 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,7437610,E-Wallet,0.1,6693849.0,2025-04
+298,299,2025-01-19 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,18239536,Credit Card,0.05,69310236.8,2025-01
+299,300,2025-06-04 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,2439461,Debit Card,0.0,2439461.0,2025-06
+300,301,2025-02-04 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,22948140,E-Wallet,0.0,68844420.0,2025-02
+301,302,2025-04-16 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,20720626,Bank Transfer,0.0,82882504.0,2025-04
+302,303,2025-02-17 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,9221714,Debit Card,0.05,26281884.9,2025-02
+303,304,2025-01-05 15:24:43.861623,Monitor Curved,Periferal,Jakarta,3,7005858,Bank Transfer,0.0,21017574.0,2025-01
+304,305,2025-01-24 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1287100,Bank Transfer,0.0,1287100.0,2025-01
+305,306,2025-01-24 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,18415871,Bank Transfer,0.0,73663484.0,2025-01
+306,307,2025-01-18 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,584580,Credit Card,0.05,1666053.0,2025-01
+307,308,2025-01-27 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,823156,Debit Card,0.1,2963361.6,2025-01
+308,309,2025-04-04 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1469097,Debit Card,0.05,1395642.15,2025-04
+309,310,2025-01-25 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,2036921,Credit Card,0.05,5805224.85,2025-01
+310,311,2025-04-18 15:24:43.861623,Smartphone,Elektronik,Makassar,1,8913318,E-Wallet,0.0,8913318.0,2025-04
+311,312,2025-02-27 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,749830,Bank Transfer,0.0,2999320.0,2025-02
+312,313,2025-02-14 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1204098,Debit Card,0.05,4575572.399999999,2025-02
+313,314,2025-05-24 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,1805568,Credit Card,0.0,1805568.0,2025-05
+314,315,2025-01-01 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,368920,Bank Transfer,0.0,737840.0,2025-01
+315,316,2025-02-01 15:24:43.861623,Smartphone,Elektronik,Medan,3,6651387,E-Wallet,0.0,19954161.0,2025-02
+316,317,2025-02-15 15:24:43.861623,Smartphone,Elektronik,Medan,4,4711672,E-Wallet,0.0,18846688.0,2025-02
+317,318,2025-01-14 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,4,1415731,Bank Transfer,0.0,5662924.0,2025-01
+318,319,2025-06-18 15:24:43.861623,Monitor Curved,Periferal,Medan,3,5028631,E-Wallet,0.1,13577303.700000001,2025-06
+319,320,2025-06-04 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,1,607747,Debit Card,0.0,607747.0,2025-06
+320,321,2025-02-12 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,2929655,Debit Card,0.0,2929655.0,2025-02
+321,322,2025-04-24 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,2478539,Debit Card,0.0,2478539.0,2025-04
+322,323,2025-01-03 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,992841,E-Wallet,0.05,1886397.9,2025-01
+323,324,2025-04-06 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,7024733,Debit Card,0.0,14049466.0,2025-04
+324,325,2025-05-01 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,1064917,Credit Card,0.1,3833701.2,2025-05
+325,326,2025-02-03 15:24:43.861623,Smartphone,Elektronik,Medan,1,6801250,Debit Card,0.1,6121125.0,2025-02
+326,327,2025-01-21 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,1252246,Debit Card,0.0,3756738.0,2025-01
+327,328,2025-03-31 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,4,419675,E-Wallet,0.1,1510830.0,2025-03
+328,329,2025-02-12 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,23462605,Debit Card,0.15,59829642.75,2025-02
+329,330,2025-04-02 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,24356169,Bank Transfer,0.1,87682208.4,2025-04
+330,331,2025-04-06 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,3486799,Credit Card,0.1,6276238.2,2025-04
+331,332,2025-04-23 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,4,919349,E-Wallet,0.0,3677396.0,2025-04
+332,333,2025-06-06 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,17238057,Credit Card,0.0,34476114.0,2025-06
+333,334,2025-06-07 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,19464344,Bank Transfer,0.0,77857376.0,2025-06
+334,335,2025-03-05 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,15566088,E-Wallet,0.0,15566088.0,2025-03
+335,336,2025-05-05 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,21558947,E-Wallet,0.15,54975314.85,2025-05
+336,337,2025-01-15 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,15658003,Debit Card,0.0,15658003.0,2025-01
+337,338,2025-01-22 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,4,602929,Credit Card,0.05,2291130.1999999997,2025-01
+338,339,2025-02-20 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,4,1105113,Bank Transfer,0.1,3978406.8000000003,2025-02
+339,340,2025-02-24 15:24:43.861623,Smartphone,Elektronik,Denpasar,4,8028035,Bank Transfer,0.1,28900926.0,2025-02
+340,341,2025-03-05 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,7034464,E-Wallet,0.15,11958588.799999999,2025-03
+341,342,2025-04-11 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,24992154,Debit Card,0.0,74976462.0,2025-04
+342,343,2025-06-20 15:24:43.861623,Smartphone,Elektronik,Medan,3,5092101,E-Wallet,0.0,15276303.0,2025-06
+343,344,2025-01-21 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,415359,E-Wallet,0.0,1661436.0,2025-01
+344,345,2025-04-21 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,2714410,E-Wallet,0.0,10857640.0,2025-04
+345,346,2025-01-29 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,21762126,E-Wallet,0.0,43524252.0,2025-01
+346,347,2025-06-21 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,350601,Bank Transfer,0.0,350601.0,2025-06
+347,348,2025-03-24 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,6541483,Bank Transfer,0.05,6214408.85,2025-03
+348,349,2025-05-28 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,895479,E-Wallet,0.0,2686437.0,2025-05
+349,350,2025-05-04 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,2384351,E-Wallet,0.0,4768702.0,2025-05
+350,351,2025-06-01 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,551924,Debit Card,0.05,2097311.1999999997,2025-06
+351,352,2025-05-07 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,4863236,E-Wallet,0.0,14589708.0,2025-05
+352,353,2025-01-14 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,1971970,Bank Transfer,0.0,3943940.0,2025-01
+353,354,2025-04-11 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,24988400,Credit Card,0.05,23738980.0,2025-04
+354,355,2025-06-07 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,15450930,Bank Transfer,0.05,29356767.0,2025-06
+355,356,2025-05-14 15:24:43.861623,Smartphone,Elektronik,Medan,1,10402324,Debit Card,0.05,9882207.799999999,2025-05
+356,357,2025-02-09 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,22946232,Bank Transfer,0.0,45892464.0,2025-02
+357,358,2025-06-22 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,1801256,Credit Card,0.1,4863391.2,2025-06
+358,359,2025-02-05 15:24:43.861623,Monitor Curved,Periferal,Surabaya,1,4365600,E-Wallet,0.05,4147320.0,2025-02
+359,360,2025-06-16 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,8403252,Credit Card,0.0,25209756.0,2025-06
+360,361,2025-01-23 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,1241763,E-Wallet,0.05,3539024.55,2025-01
+361,362,2025-04-06 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,491006,E-Wallet,0.1,441905.4,2025-04
+362,363,2025-02-16 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,1,529350,Bank Transfer,0.0,529350.0,2025-02
+363,364,2025-05-30 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,1388725,Bank Transfer,0.0,5554900.0,2025-05
+364,365,2025-05-29 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,1205878,Bank Transfer,0.15,4099985.1999999997,2025-05
+365,366,2025-01-10 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,1188768,Debit Card,0.05,4517318.399999999,2025-01
+366,367,2025-02-26 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,3,906487,Bank Transfer,0.0,2719461.0,2025-02
+367,368,2025-05-12 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,21389308,Debit Card,0.05,60959527.8,2025-05
+368,369,2025-02-23 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,6637820,Bank Transfer,0.0,26551280.0,2025-02
+369,370,2025-02-02 15:24:43.861623,Monitor Curved,Periferal,Surabaya,3,5284321,E-Wallet,0.0,15852963.0,2025-02
+370,371,2025-06-19 15:24:43.861623,Smartphone,Elektronik,Makassar,3,10018523,Debit Card,0.0,30055569.0,2025-06
+371,372,2025-01-17 15:24:43.861623,Monitor Curved,Periferal,Denpasar,1,2678841,Credit Card,0.1,2410956.9,2025-01
+372,373,2025-03-03 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,20420712,Debit Card,0.1,18378640.8,2025-03
+373,374,2025-01-05 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,18452501,Debit Card,0.0,55357503.0,2025-01
+374,375,2025-05-21 15:24:43.861623,Smartphone,Elektronik,Makassar,4,11433840,Credit Card,0.0,45735360.0,2025-05
+375,376,2025-05-19 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,17445840,Debit Card,0.0,34891680.0,2025-05
+376,377,2025-04-22 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,860385,E-Wallet,0.15,2925309.0,2025-04
+377,378,2025-05-20 15:24:43.861623,Monitor Curved,Periferal,Surabaya,2,7451973,Bank Transfer,0.15,12668354.1,2025-05
+378,379,2025-03-30 15:24:43.861623,Monitor Curved,Periferal,Denpasar,4,7220961,Credit Card,0.05,27439651.799999997,2025-03
+379,380,2025-04-05 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,2079904,Bank Transfer,0.1,1871913.6,2025-04
+380,381,2025-03-04 15:24:43.861623,Smartphone,Elektronik,Makassar,3,10353172,E-Wallet,0.05,29506540.2,2025-03
+381,382,2025-01-29 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,838645,Credit Card,0.0,2515935.0,2025-01
+382,383,2025-03-24 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,1460248,Bank Transfer,0.0,1460248.0,2025-03
+383,384,2025-02-17 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,630817,Bank Transfer,0.0,1261634.0,2025-02
+384,385,2025-05-30 15:24:43.861623,Smartphone,Elektronik,Medan,2,8832801,E-Wallet,0.05,16782321.9,2025-05
+385,386,2025-03-01 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,2,1032303,Bank Transfer,0.05,1961375.7,2025-03
+386,387,2025-05-02 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,1,920399,E-Wallet,0.0,920399.0,2025-05
+387,388,2025-05-27 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,1264690,Debit Card,0.1,2276442.0,2025-05
+388,389,2025-02-24 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,806140,E-Wallet,0.0,806140.0,2025-02
+389,390,2025-02-24 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,4,1417862,Debit Card,0.0,5671448.0,2025-02
+390,391,2025-03-24 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,2890421,Credit Card,0.05,10983599.799999999,2025-03
+391,392,2025-02-15 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,2867354,Bank Transfer,0.05,2723986.3,2025-02
+392,393,2025-06-26 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,24485961,E-Wallet,0.05,69784988.85,2025-06
+393,394,2025-06-16 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,548066,E-Wallet,0.0,2192264.0,2025-06
+394,395,2025-03-08 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,1253695,Bank Transfer,0.0,2507390.0,2025-03
+395,396,2025-01-12 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,1,490706,Bank Transfer,0.05,466170.69999999995,2025-01
+396,397,2025-02-20 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,7818750,Credit Card,0.0,15637500.0,2025-02
+397,398,2025-04-08 15:24:43.861623,Smartphone,Elektronik,Medan,2,7991536,Credit Card,0.0,15983072.0,2025-04
+398,399,2025-01-05 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,1124255,E-Wallet,0.05,3204126.75,2025-01
+399,400,2025-02-19 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,18471750,Credit Card,0.0,36943500.0,2025-02
+400,401,2025-02-26 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,680852,Debit Card,0.05,1940428.2,2025-02
+401,402,2025-04-15 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,4,17765331,Credit Card,0.1,63955191.6,2025-04
+402,403,2025-01-02 15:24:43.861623,Smartphone,Elektronik,Makassar,1,11070297,Credit Card,0.0,11070297.0,2025-01
+403,404,2025-04-10 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,2,988158,E-Wallet,0.0,1976316.0,2025-04
+404,405,2025-01-03 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,1,1565139,Debit Card,0.05,1486882.05,2025-01
+405,406,2025-04-16 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,10543159,Credit Card,0.05,20032002.099999998,2025-04
+406,407,2025-04-23 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,8384935,Debit Card,0.05,7965688.25,2025-04
+407,408,2025-04-01 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,17901717,Debit Card,0.1,32223090.6,2025-04
+408,409,2025-02-13 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,2791635,Debit Card,0.1,5024943.0,2025-02
+409,410,2025-04-06 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,21816525,Bank Transfer,0.15,37088092.5,2025-04
+410,411,2025-02-21 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,414586,Bank Transfer,0.0,829172.0,2025-02
+411,412,2025-06-14 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,2,1898492,Bank Transfer,0.0,3796984.0,2025-06
+412,413,2025-02-18 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,23678376,Bank Transfer,0.0,47356752.0,2025-02
+413,414,2025-05-21 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,931111,E-Wallet,0.0,1862222.0,2025-05
+414,415,2025-01-10 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,942777,Credit Card,0.0,1885554.0,2025-01
+415,416,2025-04-21 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,18133211,Bank Transfer,0.0,36266422.0,2025-04
+416,417,2025-05-01 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,571033,E-Wallet,0.1,513929.7,2025-05
+417,418,2025-04-13 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,1448993,Credit Card,0.0,4346979.0,2025-04
+418,419,2025-06-04 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,2,1530392,Bank Transfer,0.0,3060784.0,2025-06
+419,420,2025-05-24 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,575709,Credit Card,0.0,1727127.0,2025-05
+420,421,2025-05-22 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,874023,Bank Transfer,0.0,1748046.0,2025-05
+421,422,2025-04-27 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,2,1177611,E-Wallet,0.0,2355222.0,2025-04
+422,423,2025-03-01 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,947936,Debit Card,0.0,947936.0,2025-03
+423,424,2025-01-16 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1143945,Debit Card,0.0,4575780.0,2025-01
+424,425,2025-03-30 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,4,1390547,Credit Card,0.05,5284078.6,2025-03
+425,426,2025-02-24 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,418658,E-Wallet,0.1,376792.2,2025-02
+426,427,2025-03-28 15:24:43.861623,Smartphone,Elektronik,Makassar,3,3021253,Debit Card,0.1,8157383.100000001,2025-03
+427,428,2025-04-24 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,18603110,Bank Transfer,0.05,70691818.0,2025-04
+428,429,2025-02-28 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,17276787,Debit Card,0.0,17276787.0,2025-02
+429,430,2025-01-20 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,10690840,Credit Card,0.1,9621756.0,2025-01
+430,431,2025-05-04 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,9501553,Credit Card,0.1,34205590.800000004,2025-05
+431,432,2025-05-14 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,1028138,E-Wallet,0.0,3084414.0,2025-05
+432,433,2025-05-17 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,24338770,Credit Card,0.05,23121831.5,2025-05
+433,434,2025-05-06 15:24:43.861623,Smartwatch,Aksesoris,Medan,2,1974634,Debit Card,0.0,3949268.0,2025-05
+434,435,2025-02-24 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,17755063,Debit Card,0.1,47938670.1,2025-02
+435,436,2025-04-29 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,1258379,Debit Card,0.15,3208866.4499999997,2025-04
+436,437,2024-12-29 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,4,1628807,Debit Card,0.0,6515228.0,2024-12
+437,438,2025-01-31 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,422775,E-Wallet,0.1,1521990.0,2025-01
+438,439,2025-04-03 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,1369211,Bank Transfer,0.05,2601500.9,2025-04
+439,440,2025-05-03 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,22601748,Bank Transfer,0.15,19211485.8,2025-05
+440,441,2025-04-25 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,6463158,E-Wallet,0.0,25852632.0,2025-04
+441,442,2025-02-14 15:24:43.861623,Smartphone,Elektronik,Medan,4,11803208,Credit Card,0.1,42491548.800000004,2025-02
+442,443,2025-03-27 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,3,571918,Bank Transfer,0.0,1715754.0,2025-03
+443,444,2025-04-24 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,19413359,Credit Card,0.0,77653436.0,2025-04
+444,445,2025-05-06 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1034417,Bank Transfer,0.0,4137668.0,2025-05
+445,446,2025-01-13 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,3448763,Credit Card,0.15,11725794.2,2025-01
+446,447,2025-03-07 15:24:43.861623,Smartphone,Elektronik,Medan,4,5519507,E-Wallet,0.1,19870225.2,2025-03
+447,448,2025-01-19 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,16256715,Debit Card,0.1,43893130.5,2025-01
+448,449,2025-03-31 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,23468865,Credit Card,0.1,42243957.0,2025-03
+449,450,2025-03-14 15:24:43.861623,Smartphone,Elektronik,Surabaya,2,4526534,Debit Card,0.0,9053068.0,2025-03
+450,451,2025-05-31 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,1,1124143,Credit Card,0.0,1124143.0,2025-05
+451,452,2025-05-21 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,22346562,Credit Card,0.0,89386248.0,2025-05
+452,453,2025-06-25 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,6802986,Credit Card,0.0,20408958.0,2025-06
+453,454,2025-03-24 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,1,15371616,Credit Card,0.0,15371616.0,2025-03
+454,455,2025-01-26 15:24:43.861623,Monitor Curved,Periferal,Medan,1,3960155,Credit Card,0.0,3960155.0,2025-01
+455,456,2025-03-07 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,2,24163766,Debit Card,0.0,48327532.0,2025-03
+456,457,2025-02-13 15:24:43.861623,Smartphone,Elektronik,Medan,3,5710527,Credit Card,0.0,17131581.0,2025-02
+457,458,2025-04-01 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,16768967,Debit Card,0.0,50306901.0,2025-04
+458,459,2025-05-21 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,11370043,E-Wallet,0.0,34110129.0,2025-05
+459,460,2025-06-22 15:24:43.861623,Monitor Curved,Periferal,Medan,2,2279215,Bank Transfer,0.15,3874665.5,2025-06
+460,461,2025-03-23 15:24:43.861623,Smartphone,Elektronik,Denpasar,2,5843236,Credit Card,0.05,11102148.4,2025-03
+461,462,2025-02-05 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,22379933,Bank Transfer,0.15,38045886.1,2025-02
+462,463,2025-04-07 15:24:43.861623,Monitor Curved,Periferal,Jakarta,2,2273349,Debit Card,0.0,4546698.0,2025-04
+463,464,2025-01-30 15:24:43.861623,Monitor Curved,Periferal,Jakarta,2,6118893,E-Wallet,0.0,12237786.0,2025-01
+464,465,2025-04-08 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,21153973,E-Wallet,0.05,80385097.39999999,2025-04
+465,466,2025-01-20 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,3960584,E-Wallet,0.0,15842336.0,2025-01
+466,467,2025-01-07 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,1791405,Bank Transfer,0.0,5374215.0,2025-01
+467,468,2025-03-07 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,24804815,Debit Card,0.0,24804815.0,2025-03
+468,469,2025-04-07 15:24:43.861623,Monitor Curved,Periferal,Medan,3,2578688,Credit Card,0.0,7736064.0,2025-04
+469,470,2025-01-31 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,731852,Credit Card,0.0,731852.0,2025-01
+470,471,2025-06-26 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,1260374,Debit Card,0.0,2520748.0,2025-06
+471,472,2025-05-15 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,20755892,Bank Transfer,0.05,19718097.4,2025-05
+472,473,2025-05-24 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,22983372,Credit Card,0.0,68950116.0,2025-05
+473,474,2025-04-03 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,1505057,Debit Card,0.0,4515171.0,2025-04
+474,475,2024-12-29 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,433691,Credit Card,0.1,390321.9,2024-12
+475,476,2025-03-07 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1094341,E-Wallet,0.0,4377364.0,2025-03
+476,477,2025-01-01 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,10337694,Credit Card,0.0,20675388.0,2025-01
+477,478,2025-01-13 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,1232726,Bank Transfer,0.1,2218906.8000000003,2025-01
+478,479,2025-01-21 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,3,1096184,Debit Card,0.0,3288552.0,2025-01
+479,480,2025-03-18 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,3239968,Bank Transfer,0.0,12959872.0,2025-03
+480,481,2024-12-30 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,23677571,Debit Card,0.0,23677571.0,2024-12
+481,482,2025-05-05 15:24:43.861623,Monitor Curved,Periferal,Medan,2,4592536,E-Wallet,0.0,9185072.0,2025-05
+482,483,2025-06-06 15:24:43.861623,Smartphone,Elektronik,Makassar,4,8504381,Debit Card,0.0,34017524.0,2025-06
+483,484,2025-03-22 15:24:43.861623,Monitor Curved,Periferal,Denpasar,2,2519165,Credit Card,0.1,4534497.0,2025-03
+484,485,2025-05-29 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,7414084,Credit Card,0.0,29656336.0,2025-05
+485,486,2025-05-17 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,18440866,E-Wallet,0.0,73763464.0,2025-05
+486,487,2025-06-24 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,18878363,Debit Card,0.0,56635089.0,2025-06
+487,488,2025-06-09 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,1446332,E-Wallet,0.0,2892664.0,2025-06
+488,489,2025-05-01 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,842632,Credit Card,0.05,800500.3999999999,2025-05
+489,490,2025-01-30 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,16027557,Bank Transfer,0.0,48082671.0,2025-01
+490,491,2025-06-07 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,3,1544241,E-Wallet,0.0,4632723.0,2025-06
+491,492,2025-06-25 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,1,1470808,Bank Transfer,0.0,1470808.0,2025-06
+492,493,2025-06-17 15:24:43.861623,Monitor Curved,Periferal,Denpasar,3,3996170,Bank Transfer,0.0,11988510.0,2025-06
+493,494,2025-04-08 15:24:43.861623,Smartphone,Elektronik,Medan,4,8688238,Debit Card,0.0,34752952.0,2025-04
+494,495,2025-01-09 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,7485931,E-Wallet,0.1,26949351.6,2025-01
+495,496,2025-03-05 15:24:43.861623,Monitor Curved,Periferal,Makassar,2,3206123,Bank Transfer,0.0,6412246.0,2025-03
+496,497,2025-03-03 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,9703560,Bank Transfer,0.0,19407120.0,2025-03
+497,498,2025-06-07 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,16785559,Debit Card,0.0,16785559.0,2025-06
+498,499,2025-06-14 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,708449,Debit Card,0.05,1346053.0999999999,2025-06
+499,500,2025-03-12 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,4,933634,Credit Card,0.0,3734536.0,2025-03
+500,501,2025-02-09 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,18932747,Bank Transfer,0.05,17986109.65,2025-02
+501,502,2025-02-10 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,1761339,Credit Card,0.05,1673272.0499999998,2025-02
+502,503,2025-01-26 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,590237,Bank Transfer,0.1,1062426.6,2025-01
+503,504,2025-05-18 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,1256047,Credit Card,0.0,5024188.0,2025-05
+504,505,2025-01-09 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,829332,Debit Card,0.0,829332.0,2025-01
+505,506,2025-04-02 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,7334233,E-Wallet,0.1,26403238.8,2025-04
+506,507,2025-02-12 15:24:43.861623,Smartphone,Elektronik,Makassar,4,4406368,Debit Card,0.15,14981651.2,2025-02
+507,508,2025-05-07 15:24:43.861623,Smartphone,Elektronik,Makassar,4,9841300,Credit Card,0.1,35428680.0,2025-05
+508,509,2025-02-01 15:24:43.861623,Smartphone,Elektronik,Surabaya,2,8785267,Credit Card,0.0,17570534.0,2025-02
+509,510,2025-03-19 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,1071233,E-Wallet,0.0,3213699.0,2025-03
+510,511,2025-03-28 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,1924744,Bank Transfer,0.0,5774232.0,2025-03
+511,512,2025-01-05 15:24:43.861623,Smartphone,Elektronik,Denpasar,1,8970226,Credit Card,0.05,8521714.7,2025-01
+512,513,2025-03-31 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,4,1068590,Credit Card,0.0,4274360.0,2025-03
+513,514,2025-05-31 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,2,2831018,Credit Card,0.0,5662036.0,2025-05
+514,515,2025-03-28 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1453976,E-Wallet,0.1,5234313.600000001,2025-03
+515,516,2025-06-08 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,4,735071,Debit Card,0.0,2940284.0,2025-06
+516,517,2025-04-22 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,2,1486064,Credit Card,0.1,2674915.2,2025-04
+517,518,2025-04-12 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,21888260,E-Wallet,0.0,65664780.0,2025-04
+518,519,2025-05-12 15:24:43.861623,Smartphone,Elektronik,Denpasar,4,9478443,Credit Card,0.0,37913772.0,2025-05
+519,520,2025-02-24 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,15294746,Bank Transfer,0.0,61178984.0,2025-02
+520,521,2025-04-21 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,20710754,E-Wallet,0.05,59025648.9,2025-04
+521,522,2025-03-13 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,458588,Credit Card,0.0,917176.0,2025-03
+522,523,2025-06-03 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,423950,E-Wallet,0.0,423950.0,2025-06
+523,524,2025-04-27 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,16153224,Credit Card,0.15,41190721.199999996,2025-04
+524,525,2025-06-10 15:24:43.861623,Monitor Curved,Periferal,Jakarta,1,6232851,Debit Card,0.0,6232851.0,2025-06
+525,526,2025-01-18 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,5650235,Credit Card,0.0,5650235.0,2025-01
+526,527,2025-06-10 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,586368,E-Wallet,0.0,1759104.0,2025-06
+527,528,2025-05-15 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,945735,Bank Transfer,0.0,3782940.0,2025-05
+528,529,2025-04-08 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,23299350,Bank Transfer,0.05,22134382.5,2025-04
+529,530,2025-05-29 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,506402,Bank Transfer,0.0,506402.0,2025-05
+530,531,2025-06-23 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,19020120,Credit Card,0.0,38040240.0,2025-06
+531,532,2025-04-06 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1149710,Debit Card,0.0,4598840.0,2025-04
+532,533,2025-02-02 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,812782,Credit Card,0.05,772142.8999999999,2025-02
+533,534,2025-04-03 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,10331006,Bank Transfer,0.0,20662012.0,2025-04
+534,535,2025-05-29 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,4,927220,E-Wallet,0.0,3708880.0,2025-05
+535,536,2025-05-28 15:24:43.861623,Smartphone,Elektronik,Denpasar,3,11329442,Bank Transfer,0.0,33988326.0,2025-05
+536,537,2025-02-03 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,21169912,E-Wallet,0.0,63509736.0,2025-02
+537,538,2025-01-09 15:24:43.861623,Smartwatch,Aksesoris,Makassar,2,1711316,Debit Card,0.0,3422632.0,2025-01
+538,539,2025-04-20 15:24:43.861623,Smartphone,Elektronik,Makassar,3,11831924,E-Wallet,0.0,35495772.0,2025-04
+539,540,2025-01-10 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,1,775595,Credit Card,0.1,698035.5,2025-01
+540,541,2025-01-20 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,4888806,Credit Card,0.0,19555224.0,2025-01
+541,542,2025-04-06 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,1,1547272,Credit Card,0.1,1392544.8,2025-04
+542,543,2025-04-12 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,17148091,E-Wallet,0.15,14575877.35,2025-04
+543,544,2025-01-27 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,441521,Credit Card,0.0,1324563.0,2025-01
+544,545,2025-01-14 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,2323154,Credit Card,0.0,2323154.0,2025-01
+545,546,2025-04-20 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,7058848,Credit Card,0.0,21176544.0,2025-04
+546,547,2025-02-28 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,4,1273093,Debit Card,0.05,4837753.399999999,2025-02
+547,548,2025-03-22 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1509178,E-Wallet,0.0,6036712.0,2025-03
+548,549,2025-04-19 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1283098,E-Wallet,0.0,1283098.0,2025-04
+549,550,2025-03-24 15:24:43.861623,Monitor Curved,Periferal,Makassar,2,6670817,Bank Transfer,0.0,13341634.0,2025-03
+550,551,2025-05-18 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,3,1594871,E-Wallet,0.1,4306151.7,2025-05
+551,552,2025-01-16 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,865453,Debit Card,0.05,2466541.05,2025-01
+552,553,2025-06-23 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,2406533,E-Wallet,0.0,2406533.0,2025-06
+553,554,2025-04-07 15:24:43.861623,Smartwatch,Aksesoris,Makassar,3,1421037,Debit Card,0.05,4049955.4499999997,2025-04
+554,555,2025-05-17 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,20507683,Debit Card,0.0,61523049.0,2025-05
+555,556,2025-05-24 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,21417954,E-Wallet,0.0,42835908.0,2025-05
+556,557,2025-03-14 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,1002098,Bank Transfer,0.1,1803776.4000000001,2025-03
+557,558,2025-01-06 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,1,16021469,Credit Card,0.0,16021469.0,2025-01
+558,559,2025-01-25 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,764894,Credit Card,0.0,1529788.0,2025-01
+559,560,2025-05-05 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,8779277,E-Wallet,0.0,8779277.0,2025-05
+560,561,2025-02-18 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,5892371,E-Wallet,0.1,21212535.6,2025-02
+561,562,2025-03-21 15:24:43.861623,Monitor Curved,Periferal,Medan,1,3812336,Debit Card,0.05,3621719.1999999997,2025-03
+562,563,2025-04-18 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,539544,E-Wallet,0.05,2050267.2,2025-04
+563,564,2025-05-21 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,21970199,Debit Card,0.05,20871689.05,2025-05
+564,565,2025-04-24 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,763001,Bank Transfer,0.0,2289003.0,2025-04
+565,566,2025-03-07 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,1483094,E-Wallet,0.0,2966188.0,2025-03
+566,567,2025-04-06 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,4,17822136,Credit Card,0.0,71288544.0,2025-04
+567,568,2025-05-17 15:24:43.861623,Monitor Curved,Periferal,Jakarta,1,7165138,Credit Card,0.0,7165138.0,2025-05
+568,569,2025-01-22 15:24:43.861623,Smartphone,Elektronik,Denpasar,2,3515693,E-Wallet,0.0,7031386.0,2025-01
+569,570,2025-06-26 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,5636722,Debit Card,0.1,5073049.8,2025-06
+570,571,2025-04-30 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,2,1926658,Credit Card,0.0,3853316.0,2025-04
+571,572,2025-02-19 15:24:43.861623,Smartphone,Elektronik,Makassar,2,3239017,Debit Card,0.0,6478034.0,2025-02
+572,573,2025-05-28 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,1114994,E-Wallet,0.0,1114994.0,2025-05
+573,574,2025-05-21 15:24:43.861623,Monitor Curved,Periferal,Denpasar,4,2941768,E-Wallet,0.0,11767072.0,2025-05
+574,575,2025-02-23 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,20712044,Credit Card,0.1,74563358.4,2025-02
+575,576,2025-02-05 15:24:43.861623,Smartwatch,Aksesoris,Makassar,3,1776941,E-Wallet,0.0,5330823.0,2025-02
+576,577,2025-04-16 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,865982,Bank Transfer,0.0,1731964.0,2025-04
+577,578,2025-02-08 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,17538568,Bank Transfer,0.05,49984918.8,2025-02
+578,579,2025-06-13 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,3,673146,Credit Card,0.0,2019438.0,2025-06
+579,580,2025-05-19 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,1464795,Bank Transfer,0.0,1464795.0,2025-05
+580,581,2025-04-29 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,2089330,Debit Card,0.0,2089330.0,2025-04
+581,582,2025-05-10 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,1884141,Credit Card,0.0,1884141.0,2025-05
+582,583,2025-06-09 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,5409381,Credit Card,0.15,9195947.7,2025-06
+583,584,2025-03-13 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,958516,Debit Card,0.05,910590.2,2025-03
+584,585,2025-05-23 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,1135036,Bank Transfer,0.0,1135036.0,2025-05
+585,586,2025-03-14 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,1666920,Bank Transfer,0.1,3000456.0,2025-03
+586,587,2025-01-06 15:24:43.861623,Monitor Curved,Periferal,Makassar,2,4943295,Bank Transfer,0.0,9886590.0,2025-01
+587,588,2025-03-12 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,777175,Credit Card,0.0,3108700.0,2025-03
+588,589,2025-05-22 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,888595,Credit Card,0.0,888595.0,2025-05
+589,590,2025-01-04 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,2778808,Bank Transfer,0.0,2778808.0,2025-01
+590,591,2025-06-20 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,1214634,E-Wallet,0.0,1214634.0,2025-06
+591,592,2025-05-18 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,395028,Bank Transfer,0.05,1501106.4,2025-05
+592,593,2025-06-14 15:24:43.861623,Monitor Curved,Periferal,Medan,1,3558242,Debit Card,0.1,3202417.8000000003,2025-06
+593,594,2025-06-16 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1490888,Credit Card,0.0,5963552.0,2025-06
+594,595,2025-05-14 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,19319453,Debit Card,0.0,57958359.0,2025-05
+595,596,2025-06-24 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,19948008,Debit Card,0.0,79792032.0,2025-06
+596,597,2025-01-24 15:24:43.861623,Smartphone,Elektronik,Makassar,3,8445315,Credit Card,0.0,25335945.0,2025-01
+597,598,2025-04-29 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,863834,E-Wallet,0.0,863834.0,2025-04
+598,599,2025-01-02 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,570403,Bank Transfer,0.0,1711209.0,2025-01
+599,600,2025-01-26 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1929787,Debit Card,0.1,6947233.2,2025-01
+600,601,2025-06-11 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,2,1215207,Credit Card,0.0,2430414.0,2025-06
+601,602,2025-06-12 15:24:43.861623,Smartwatch,Aksesoris,Medan,3,2025569,Debit Card,0.0,6076707.0,2025-06
+602,603,2025-03-21 15:24:43.861623,Smartphone,Elektronik,Medan,3,5414165,Bank Transfer,0.0,16242495.0,2025-03
+603,604,2025-05-13 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,1213320,E-Wallet,0.0,1213320.0,2025-05
+604,605,2025-04-16 15:24:43.861623,Smartwatch,Aksesoris,Makassar,4,1557342,E-Wallet,0.0,6229368.0,2025-04
+605,606,2025-03-03 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,3,1928502,E-Wallet,0.05,5496230.7,2025-03
+606,607,2025-03-24 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,3285711,Credit Card,0.0,9857133.0,2025-03
+607,608,2025-05-22 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,20278172,Credit Card,0.05,57792790.199999996,2025-05
+608,609,2025-03-09 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,24511997,E-Wallet,0.0,73535991.0,2025-03
+609,610,2025-02-11 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,21912880,Bank Transfer,0.0,43825760.0,2025-02
+610,611,2025-05-09 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,4,1275919,Bank Transfer,0.0,5103676.0,2025-05
+611,612,2025-02-02 15:24:43.861623,Smartphone,Elektronik,Medan,1,6331106,Credit Card,0.1,5697995.4,2025-02
+612,613,2025-03-08 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,1152746,E-Wallet,0.0,1152746.0,2025-03
+613,614,2025-06-05 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,722381,Bank Transfer,0.05,1372523.9,2025-06
+614,615,2025-01-16 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,15976433,Bank Transfer,0.0,63905732.0,2025-01
+615,616,2025-04-15 15:24:43.861623,Smartphone,Elektronik,Denpasar,3,11222462,Bank Transfer,0.05,31984016.7,2025-04
+616,617,2025-06-13 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,7900164,Credit Card,0.0,15800328.0,2025-06
+617,618,2025-03-29 15:24:43.861623,Smartphone,Elektronik,Makassar,4,9336356,E-Wallet,0.05,35478152.8,2025-03
+618,619,2025-03-28 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,8679042,Debit Card,0.0,26037126.0,2025-03
+619,620,2025-01-16 15:24:43.861623,Monitor Curved,Periferal,Jakarta,2,2401067,E-Wallet,0.1,4321920.600000001,2025-01
+620,621,2025-02-05 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,22094176,E-Wallet,0.0,88376704.0,2025-02
+621,622,2025-05-03 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,1521268,Credit Card,0.0,1521268.0,2025-05
+622,623,2025-06-19 15:24:43.861623,Smartphone,Elektronik,Denpasar,1,3460796,Bank Transfer,0.0,3460796.0,2025-06
+623,624,2025-05-18 15:24:43.861623,Monitor Curved,Periferal,Surabaya,4,7994376,Bank Transfer,0.1,28779753.6,2025-05
+624,625,2025-05-03 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1794979,Credit Card,0.0,1794979.0,2025-05
+625,626,2025-02-24 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,2364034,Credit Card,0.05,8983329.2,2025-02
+626,627,2025-05-25 15:24:43.861623,Monitor Curved,Periferal,Surabaya,3,6989904,Credit Card,0.0,20969712.0,2025-05
+627,628,2025-02-27 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1304001,Credit Card,0.0,5216004.0,2025-02
+628,629,2025-05-04 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,3,612023,Credit Card,0.0,1836069.0,2025-05
+629,630,2025-04-12 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,1408447,Debit Card,0.15,2394359.9,2025-04
+630,631,2025-06-13 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,1329127,E-Wallet,0.05,5050682.6,2025-06
+631,632,2024-12-29 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,22822636,E-Wallet,0.1,41080744.800000004,2024-12
+632,633,2025-05-08 15:24:43.861623,Smartphone,Elektronik,Denpasar,1,6177902,E-Wallet,0.0,6177902.0,2025-05
+633,634,2025-03-30 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,1455111,Bank Transfer,0.05,4147066.3499999996,2025-03
+634,635,2025-04-20 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,523563,Debit Card,0.05,1989539.4,2025-04
+635,636,2025-05-30 15:24:43.861623,Monitor Curved,Periferal,Medan,2,4234805,E-Wallet,0.0,8469610.0,2025-05
+636,637,2025-02-22 15:24:43.861623,Smartwatch,Aksesoris,Medan,3,810155,Bank Transfer,0.1,2187418.5,2025-02
+637,638,2025-06-07 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,733997,Debit Card,0.1,1981791.9000000001,2025-06
+638,639,2025-06-12 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,4899054,Debit Card,0.1,4409148.600000001,2025-06
+639,640,2025-04-24 15:24:43.861623,Smartphone,Elektronik,Makassar,1,6457550,Bank Transfer,0.05,6134672.5,2025-04
+640,641,2025-05-11 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,4550184,Debit Card,0.0,13650552.0,2025-05
+641,642,2025-02-24 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,3,1476371,Bank Transfer,0.0,4429113.0,2025-02
+642,643,2025-02-10 15:24:43.861623,Monitor Curved,Periferal,Medan,4,2088668,E-Wallet,0.15,7101471.2,2025-02
+643,644,2025-06-19 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,9961383,Bank Transfer,0.0,29884149.0,2025-06
+644,645,2025-06-06 15:24:43.861623,Monitor Curved,Periferal,Surabaya,4,5619348,Debit Card,0.05,21353522.4,2025-06
+645,646,2025-06-19 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,10960339,E-Wallet,0.05,31236966.15,2025-06
+646,647,2025-02-27 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,2784508,E-Wallet,0.05,2645282.6,2025-02
+647,648,2025-02-13 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,1253091,Credit Card,0.15,4260509.399999999,2025-02
+648,649,2025-05-26 15:24:43.861623,Smartphone,Elektronik,Surabaya,2,5770742,Credit Card,0.0,11541484.0,2025-05
+649,650,2025-03-18 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,1,973222,Debit Card,0.0,973222.0,2025-03
+650,651,2025-04-25 15:24:43.861623,Smartphone,Elektronik,Denpasar,4,10296405,Bank Transfer,0.0,41185620.0,2025-04
+651,652,2025-06-10 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,21846539,Bank Transfer,0.0,87386156.0,2025-06
+652,653,2025-05-24 15:24:43.861623,Smartphone,Elektronik,Denpasar,2,11659522,Debit Card,0.0,23319044.0,2025-05
+653,654,2025-01-17 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,19109803,E-Wallet,0.0,76439212.0,2025-01
+654,655,2025-05-23 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,8636289,Debit Card,0.1,23317980.3,2025-05
+655,656,2025-02-13 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,662455,Debit Card,0.1,1192419.0,2025-02
+656,657,2025-02-15 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,579713,E-Wallet,0.0,579713.0,2025-02
+657,658,2025-01-11 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,1734586,Bank Transfer,0.0,1734586.0,2025-01
+658,659,2025-05-20 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,21040502,Debit Card,0.1,56809355.4,2025-05
+659,660,2025-06-05 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,1,2597832,Bank Transfer,0.0,2597832.0,2025-06
+660,661,2024-12-29 15:24:43.861623,Smartphone,Elektronik,Makassar,4,8547094,Debit Card,0.0,34188376.0,2024-12
+661,662,2025-04-24 15:24:43.861623,Smartphone,Elektronik,Medan,4,6100581,E-Wallet,0.0,24402324.0,2025-04
+662,663,2025-02-20 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,964485,E-Wallet,0.0,2893455.0,2025-02
+663,664,2025-04-25 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,18672277,Credit Card,0.0,18672277.0,2025-04
+664,665,2024-12-31 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,457584,E-Wallet,0.15,388946.39999999997,2024-12
+665,666,2025-05-21 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,1224220,Credit Card,0.0,3672660.0,2025-05
+666,667,2025-01-09 15:24:43.861623,Smartphone,Elektronik,Denpasar,2,7854042,Debit Card,0.0,15708084.0,2025-01
+667,668,2025-03-12 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,5471378,Bank Transfer,0.0,5471378.0,2025-03
+668,669,2025-01-13 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,6830121,E-Wallet,0.0,13660242.0,2025-01
+669,670,2025-04-09 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,1865792,E-Wallet,0.05,1772502.4,2025-04
+670,671,2025-05-29 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,8353912,E-Wallet,0.05,7936216.399999999,2025-05
+671,672,2025-06-02 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,4353324,Debit Card,0.05,4135657.8,2025-06
+672,673,2025-04-24 15:24:43.861623,Smartphone,Elektronik,Medan,1,9753008,Credit Card,0.0,9753008.0,2025-04
+673,674,2025-01-05 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,2630082,Debit Card,0.1,9468295.200000001,2025-01
+674,675,2025-04-29 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,18372455,Bank Transfer,0.1,33070419.0,2025-04
+675,676,2025-03-30 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,7268173,Debit Card,0.05,13809528.7,2025-03
+676,677,2025-06-10 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,1,1169807,Bank Transfer,0.0,1169807.0,2025-06
+677,678,2025-03-28 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,1118675,E-Wallet,0.0,1118675.0,2025-03
+678,679,2025-05-13 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,7396720,Bank Transfer,0.0,14793440.0,2025-05
+679,680,2025-02-26 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,7070028,Bank Transfer,0.05,26866106.4,2025-02
+680,681,2025-06-24 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,10951036,Credit Card,0.0,32853108.0,2025-06
+681,682,2025-01-25 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,2069277,Bank Transfer,0.0,6207831.0,2025-01
+682,683,2025-04-08 15:24:43.861623,Smartphone,Elektronik,Makassar,2,8522567,Bank Transfer,0.1,15340620.6,2025-04
+683,684,2025-02-07 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,730634,Debit Card,0.1,657570.6,2025-02
+684,685,2025-06-01 15:24:43.861623,Monitor Curved,Periferal,Surabaya,1,2749971,E-Wallet,0.1,2474973.9,2025-06
+685,686,2025-05-22 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,965972,Debit Card,0.0,3863888.0,2025-05
+686,687,2025-06-07 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,10456688,Debit Card,0.05,29801560.799999997,2025-06
+687,688,2025-06-03 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,4,1465663,E-Wallet,0.0,5862652.0,2025-06
+688,689,2025-05-18 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,3,436554,E-Wallet,0.0,1309662.0,2025-05
+689,690,2025-02-12 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,785757,Bank Transfer,0.0,1571514.0,2025-02
+690,691,2025-02-01 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,17054376,Bank Transfer,0.0,51163128.0,2025-02
+691,692,2025-05-11 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,4,582024,Credit Card,0.0,2328096.0,2025-05
+692,693,2025-03-20 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,4,16185111,Debit Card,0.1,58266399.6,2025-03
+693,694,2025-04-22 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,7961828,E-Wallet,0.0,31847312.0,2025-04
+694,695,2025-02-13 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,22732752,Bank Transfer,0.05,43192228.8,2025-02
+695,696,2025-05-30 15:24:43.861623,Smartwatch,Aksesoris,Makassar,3,2200948,E-Wallet,0.0,6602844.0,2025-05
+696,697,2025-01-07 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,9327090,Bank Transfer,0.0,27981270.0,2025-01
+697,698,2025-02-22 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,19107834,Credit Card,0.0,76431336.0,2025-02
+698,699,2025-01-27 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,3,17408630,Credit Card,0.0,52225890.0,2025-01
+699,700,2025-04-16 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,1,24983526,E-Wallet,0.0,24983526.0,2025-04
+700,701,2025-01-02 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,846495,Credit Card,0.0,846495.0,2025-01
+701,702,2025-04-26 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,1173866,E-Wallet,0.0,1173866.0,2025-04
+702,703,2025-01-30 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,11095213,Bank Transfer,0.0,33285639.0,2025-01
+703,704,2025-04-25 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,905842,Debit Card,0.0,1811684.0,2025-04
+704,705,2025-03-03 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,2425322,Credit Card,0.1,4365579.600000001,2025-03
+705,706,2025-05-23 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,20557805,Bank Transfer,0.0,41115610.0,2025-05
+706,707,2025-06-23 15:24:43.861623,Smartphone,Elektronik,Makassar,2,7902444,Debit Card,0.05,15014643.6,2025-06
+707,708,2025-01-08 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,592512,Debit Card,0.05,562886.4,2025-01
+708,709,2025-03-23 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,1,1261703,Debit Card,0.1,1135532.7,2025-03
+709,710,2025-01-23 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,6714379,Bank Transfer,0.1,24171764.400000002,2025-01
+710,711,2025-03-01 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,491420,Bank Transfer,0.0,1474260.0,2025-03
+711,712,2025-03-24 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,4549420,E-Wallet,0.05,12965847.0,2025-03
+712,713,2025-02-25 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,557324,Debit Card,0.1,1003183.2000000001,2025-02
+713,714,2025-01-24 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,23312934,Debit Card,0.0,23312934.0,2025-01
+714,715,2025-06-23 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,18900379,Debit Card,0.0,37800758.0,2025-06
+715,716,2025-06-07 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,18804409,E-Wallet,0.0,75217636.0,2025-06
+716,717,2025-04-05 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,1267780,Debit Card,0.1,3423006.0,2025-04
+717,718,2025-04-12 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,1347341,Bank Transfer,0.1,3637820.7,2025-04
+718,719,2025-04-06 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,16520982,Debit Card,0.0,33041964.0,2025-04
+719,720,2025-05-06 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,4,21281646,Credit Card,0.0,85126584.0,2025-05
+720,721,2025-05-26 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,3,2931984,Bank Transfer,0.0,8795952.0,2025-05
+721,722,2025-02-21 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,24590446,E-Wallet,0.0,98361784.0,2025-02
+722,723,2025-01-03 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,5164563,Debit Card,0.15,17559514.2,2025-01
+723,724,2025-04-02 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,685521,Credit Card,0.0,1371042.0,2025-04
+724,725,2025-05-10 15:24:43.861623,Smartphone,Elektronik,Denpasar,1,8181377,E-Wallet,0.0,8181377.0,2025-05
+725,726,2025-04-09 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,1786787,E-Wallet,0.0,3573574.0,2025-04
+726,727,2024-12-31 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,613981,Bank Transfer,0.05,583281.95,2024-12
+727,728,2025-01-20 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,11012369,E-Wallet,0.0,44049476.0,2025-01
+728,729,2025-02-19 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,19204955,E-Wallet,0.05,18244707.25,2025-02
+729,730,2025-06-11 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,8059667,E-Wallet,0.0,32238668.0,2025-06
+730,731,2025-03-21 15:24:43.861623,Monitor Curved,Periferal,Makassar,3,4985696,E-Wallet,0.0,14957088.0,2025-03
+731,732,2025-05-22 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,837625,Debit Card,0.0,2512875.0,2025-05
+732,733,2025-03-23 15:24:43.861623,Monitor Curved,Periferal,Medan,3,5301106,Debit Card,0.0,15903318.0,2025-03
+733,734,2025-03-16 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,16372070,Debit Card,0.0,32744140.0,2025-03
+734,735,2025-04-17 15:24:43.861623,Monitor Curved,Periferal,Jakarta,2,4430721,Debit Card,0.1,7975297.8,2025-04
+735,736,2024-12-29 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,4,896574,Credit Card,0.1,3227666.4,2024-12
+736,737,2025-02-17 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,2176402,Debit Card,0.15,5549825.1,2025-02
+737,738,2025-06-19 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,655948,E-Wallet,0.0,1311896.0,2025-06
+738,739,2025-01-01 15:24:43.861623,Monitor Curved,Periferal,Surabaya,3,3570057,Debit Card,0.15,9103645.35,2025-01
+739,740,2025-04-20 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,1561069,Debit Card,0.0,3122138.0,2025-04
+740,741,2025-01-29 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,1,1156626,Bank Transfer,0.0,1156626.0,2025-01
+741,742,2025-01-31 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,11494630,E-Wallet,0.0,11494630.0,2025-01
+742,743,2025-03-30 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,20655635,Debit Card,0.0,61966905.0,2025-03
+743,744,2025-04-02 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1480741,Debit Card,0.05,5626815.8,2025-04
+744,745,2025-03-10 15:24:43.861623,Smartphone,Elektronik,Makassar,2,3470529,Debit Card,0.0,6941058.0,2025-03
+745,746,2025-02-05 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,1286364,Credit Card,0.0,2572728.0,2025-02
+746,747,2025-05-31 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,561445,Debit Card,0.05,533372.75,2025-05
+747,748,2025-06-08 15:24:43.861623,Monitor Curved,Periferal,Makassar,1,5834242,Bank Transfer,0.0,5834242.0,2025-06
+748,749,2025-04-25 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,4,21494503,E-Wallet,0.0,85978012.0,2025-04
+749,750,2024-12-31 15:24:43.861623,Smartphone,Elektronik,Denpasar,4,3684029,E-Wallet,0.0,14736116.0,2024-12
+750,751,2025-04-30 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,4,20337355,Debit Card,0.1,73214478.0,2025-04
+751,752,2025-02-16 15:24:43.861623,Smartwatch,Aksesoris,Makassar,3,1210370,Debit Card,0.1,3267999.0,2025-02
+752,753,2025-01-09 15:24:43.861623,Monitor Curved,Periferal,Jakarta,1,3752374,Debit Card,0.0,3752374.0,2025-01
+753,754,2025-02-20 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,620972,E-Wallet,0.0,1862916.0,2025-02
+754,755,2025-05-10 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,6999694,E-Wallet,0.0,6999694.0,2025-05
+755,756,2025-02-23 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,1611353,Credit Card,0.1,1450217.7,2025-02
+756,757,2025-05-22 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,608944,Bank Transfer,0.0,1217888.0,2025-05
+757,758,2025-04-19 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,8186686,Credit Card,0.0,8186686.0,2025-04
+758,759,2025-02-13 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,1685016,Bank Transfer,0.0,1685016.0,2025-02
+759,760,2025-05-28 15:24:43.861623,Smartphone,Elektronik,Medan,3,4361303,Credit Card,0.0,13083909.0,2025-05
+760,761,2025-03-23 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,7201765,E-Wallet,0.0,7201765.0,2025-03
+761,762,2025-05-19 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,1172501,Credit Card,0.1,3165752.7,2025-05
+762,763,2025-03-04 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,4197162,Bank Transfer,0.0,16788648.0,2025-03
+763,764,2025-03-13 15:24:43.861623,Smartwatch,Aksesoris,Makassar,1,1746161,Debit Card,0.0,1746161.0,2025-03
+764,765,2025-06-25 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,1194178,Bank Transfer,0.1,1074760.2,2025-06
+765,766,2025-04-10 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,531496,Debit Card,0.1,1435039.2,2025-04
+766,767,2025-06-12 15:24:43.861623,Smartphone,Elektronik,Jakarta,4,9983604,E-Wallet,0.0,39934416.0,2025-06
+767,768,2025-02-04 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,860315,Bank Transfer,0.0,1720630.0,2025-02
+768,769,2025-02-16 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,1179979,Credit Card,0.0,4719916.0,2025-02
+769,770,2025-04-05 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,473921,Bank Transfer,0.1,1279586.7,2025-04
+770,771,2025-03-20 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,9129439,Debit Card,0.0,36517756.0,2025-03
+771,772,2025-01-27 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,24061826,E-Wallet,0.1,64966930.2,2025-01
+772,773,2025-03-17 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,903291,Credit Card,0.05,2574379.35,2025-03
+773,774,2025-03-29 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,19902059,Bank Transfer,0.0,39804118.0,2025-03
+774,775,2025-06-25 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,1,2079390,Debit Card,0.0,2079390.0,2025-06
+775,776,2025-02-18 15:24:43.861623,Monitor Curved,Periferal,Surabaya,3,7228566,Credit Card,0.0,21685698.0,2025-02
+776,777,2025-06-12 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,382279,E-Wallet,0.0,1146837.0,2025-06
+777,778,2025-03-17 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,315434,Credit Card,0.0,630868.0,2025-03
+778,779,2025-01-27 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,1119407,E-Wallet,0.05,3190309.9499999997,2025-01
+779,780,2025-04-13 15:24:43.861623,Monitor Curved,Periferal,Denpasar,1,4538143,Credit Card,0.15,3857421.55,2025-04
+780,781,2025-02-17 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,737913,Bank Transfer,0.0,1475826.0,2025-02
+781,782,2025-03-19 15:24:43.861623,Monitor Curved,Periferal,Makassar,1,5915770,Debit Card,0.05,5619981.5,2025-03
+782,783,2025-05-10 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,15328821,Bank Transfer,0.0,15328821.0,2025-05
+783,784,2025-01-26 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,2,18887008,Bank Transfer,0.0,37774016.0,2025-01
+784,785,2025-05-09 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,476806,E-Wallet,0.0,1430418.0,2025-05
+785,786,2025-05-15 15:24:43.861623,Smartphone,Elektronik,Makassar,1,9725275,E-Wallet,0.05,9239011.25,2025-05
+786,787,2025-05-22 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,1299430,E-Wallet,0.1,1169487.0,2025-05
+787,788,2025-03-12 15:24:43.861623,Smartphone,Elektronik,Medan,1,11457411,Bank Transfer,0.05,10884540.45,2025-03
+788,789,2025-01-14 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,1107744,Credit Card,0.0,1107744.0,2025-01
+789,790,2025-03-22 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,1448736,Credit Card,0.0,2897472.0,2025-03
+790,791,2025-03-07 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,2,2226318,Bank Transfer,0.0,4452636.0,2025-03
+791,792,2025-01-31 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,4,999539,Bank Transfer,0.0,3998156.0,2025-01
+792,793,2025-01-03 15:24:43.861623,Monitor Curved,Periferal,Makassar,4,2245404,Debit Card,0.1,8083454.4,2025-01
+793,794,2025-02-19 15:24:43.861623,Smartphone,Elektronik,Medan,1,9933705,E-Wallet,0.1,8940334.5,2025-02
+794,795,2025-05-03 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,3,1751099,E-Wallet,0.05,4990632.149999999,2025-05
+795,796,2025-02-09 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,15017297,Bank Transfer,0.0,15017297.0,2025-02
+796,797,2025-04-22 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,1188443,Bank Transfer,0.0,3565329.0,2025-04
+797,798,2025-04-18 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1268302,Credit Card,0.0,1268302.0,2025-04
+798,799,2025-05-28 15:24:43.861623,Smartphone,Elektronik,Medan,4,9010334,Bank Transfer,0.0,36041336.0,2025-05
+799,800,2025-03-18 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,24615754,Credit Card,0.0,98463016.0,2025-03
+800,801,2025-04-02 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,1083152,Bank Transfer,0.05,3086983.1999999997,2025-04
+801,802,2025-04-25 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,20752613,Debit Card,0.05,19714982.349999998,2025-04
+802,803,2025-05-21 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,16333572,Debit Card,0.0,49000716.0,2025-05
+803,804,2025-01-05 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,2142721,Credit Card,0.0,8570884.0,2025-01
+804,805,2025-05-09 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,811603,E-Wallet,0.0,811603.0,2025-05
+805,806,2025-04-11 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,1,1315863,Debit Card,0.0,1315863.0,2025-04
+806,807,2025-05-09 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,1443659,Credit Card,0.1,3897879.3000000003,2025-05
+807,808,2025-01-22 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,807365,Bank Transfer,0.0,1614730.0,2025-01
+808,809,2025-04-03 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,1497086,Bank Transfer,0.0,4491258.0,2025-04
+809,810,2025-06-01 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,18325315,Credit Card,0.0,73301260.0,2025-06
+810,811,2025-03-31 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,2278608,E-Wallet,0.1,8202988.8,2025-03
+811,812,2025-06-06 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,8217092,Credit Card,0.0,32868368.0,2025-06
+812,813,2025-06-24 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,4,1228791,Credit Card,0.0,4915164.0,2025-06
+813,814,2025-02-27 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,5820887,Debit Card,0.0,23283548.0,2025-02
+814,815,2025-04-29 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,660890,Credit Card,0.05,1255691.0,2025-04
+815,816,2025-02-17 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,1,17846274,Credit Card,0.15,15169332.9,2025-02
+816,817,2025-05-24 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,3,1045194,Bank Transfer,0.0,3135582.0,2025-05
+817,818,2025-01-18 15:24:43.861623,Monitor Curved,Periferal,Jakarta,3,6395564,Debit Card,0.1,17268022.8,2025-01
+818,819,2025-01-02 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,4,20988099,Bank Transfer,0.1,75557156.4,2025-01
+819,820,2025-03-30 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,10069337,Bank Transfer,0.1,27187209.900000002,2025-03
+820,821,2025-06-16 15:24:43.861623,Monitor Curved,Periferal,Medan,4,7446079,E-Wallet,0.05,28295100.2,2025-06
+821,822,2025-02-27 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,15376794,E-Wallet,0.05,29215908.599999998,2025-02
+822,823,2025-01-19 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,2,1933161,Debit Card,0.0,3866322.0,2025-01
+823,824,2025-05-26 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,6878450,Debit Card,0.05,6534527.5,2025-05
+824,825,2025-03-08 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,18033349,E-Wallet,0.0,36066698.0,2025-03
+825,826,2024-12-29 15:24:43.861623,Monitor Curved,Periferal,Medan,2,3521466,E-Wallet,0.05,6690785.399999999,2024-12
+826,827,2025-05-10 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,9407054,E-Wallet,0.0,9407054.0,2025-05
+827,828,2025-01-09 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,550100,E-Wallet,0.05,1567785.0,2025-01
+828,829,2025-03-28 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,15782877,E-Wallet,0.1,56818357.2,2025-03
+829,830,2025-02-12 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,19902825,Bank Transfer,0.0,79611300.0,2025-02
+830,831,2025-01-31 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,3,2930393,Debit Card,0.1,7912061.100000001,2025-01
+831,832,2025-06-23 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,308036,Bank Transfer,0.0,308036.0,2025-06
+832,833,2025-03-16 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,3,1245238,Bank Transfer,0.1,3362142.6,2025-03
+833,834,2025-02-11 15:24:43.861623,Monitor Curved,Periferal,Jakarta,2,5299973,Credit Card,0.0,10599946.0,2025-02
+834,835,2025-06-01 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,2434339,Bank Transfer,0.0,2434339.0,2025-06
+835,836,2025-03-11 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,24724700,E-Wallet,0.1,22252230.0,2025-03
+836,837,2025-01-23 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,9049850,E-Wallet,0.0,9049850.0,2025-01
+837,838,2025-02-13 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,4,1250350,Credit Card,0.1,4501260.0,2025-02
+838,839,2025-04-28 15:24:43.861623,Monitor Curved,Periferal,Jakarta,3,7126781,Credit Card,0.0,21380343.0,2025-04
+839,840,2025-02-22 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,1,1055600,Credit Card,0.0,1055600.0,2025-02
+840,841,2025-04-01 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,11556255,Credit Card,0.0,11556255.0,2025-04
+841,842,2025-04-14 15:24:43.861623,Smartphone,Elektronik,Medan,1,5333679,Credit Card,0.0,5333679.0,2025-04
+842,843,2025-03-01 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,1135477,Bank Transfer,0.0,3406431.0,2025-03
+843,844,2025-02-14 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,4,952004,Credit Card,0.0,3808016.0,2025-02
+844,845,2025-02-27 15:24:43.861623,Smartwatch,Aksesoris,Medan,2,2157640,Bank Transfer,0.0,4315280.0,2025-02
+845,846,2025-03-19 15:24:43.861623,Monitor Curved,Periferal,Surabaya,4,6196656,Debit Card,0.0,24786624.0,2025-03
+846,847,2025-01-23 15:24:43.861623,Monitor Curved,Periferal,Jakarta,1,6327308,Credit Card,0.15,5378211.8,2025-01
+847,848,2025-02-02 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,16581420,Credit Card,0.15,56376828.0,2025-02
+848,849,2024-12-29 15:24:43.861623,Smartphone,Elektronik,Denpasar,4,3786261,Bank Transfer,0.0,15145044.0,2024-12
+849,850,2025-01-05 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,18494708,Debit Card,0.05,35139945.199999996,2025-01
+850,851,2025-04-20 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,9952314,Bank Transfer,0.0,29856942.0,2025-04
+851,852,2025-04-06 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,3,1131478,Bank Transfer,0.05,3224712.3,2025-04
+852,853,2025-06-26 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,350098,Credit Card,0.1,1260352.8,2025-06
+853,854,2025-02-13 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,4,1281890,E-Wallet,0.1,4614804.0,2025-02
+854,855,2025-05-04 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,21665769,E-Wallet,0.0,64997307.0,2025-05
+855,856,2025-02-22 15:24:43.861623,Smartphone,Elektronik,Medan,3,9538655,Bank Transfer,0.05,27185166.75,2025-02
+856,857,2025-01-11 15:24:43.861623,Smartphone,Elektronik,Makassar,2,11514668,Credit Card,0.0,23029336.0,2025-01
+857,858,2025-01-25 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,8968633,Debit Card,0.15,7623338.05,2025-01
+858,859,2025-03-16 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,830544,E-Wallet,0.0,3322176.0,2025-03
+859,860,2025-05-07 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,9898046,Debit Card,0.05,28209431.099999998,2025-05
+860,861,2025-04-16 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,4,1093574,E-Wallet,0.05,4155581.1999999997,2025-04
+861,862,2025-05-31 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,22983939,Credit Card,0.05,87338968.2,2025-05
+862,863,2025-01-11 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,3,20066112,Bank Transfer,0.0,60198336.0,2025-01
+863,864,2025-02-22 15:24:43.861623,Smartphone,Elektronik,Surabaya,2,7093886,Debit Card,0.1,12768994.8,2025-02
+864,865,2025-04-22 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,4,456951,Debit Card,0.0,1827804.0,2025-04
+865,866,2025-01-04 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,2,1262060,Bank Transfer,0.05,2397914.0,2025-01
+866,867,2024-12-31 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,8301358,Debit Card,0.0,24904074.0,2024-12
+867,868,2025-04-18 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,4506145,E-Wallet,0.0,4506145.0,2025-04
+868,869,2025-05-28 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1892931,Bank Transfer,0.0,1892931.0,2025-05
+869,870,2025-04-14 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,4,19889084,E-Wallet,0.0,79556336.0,2025-04
+870,871,2025-01-15 15:24:43.861623,Smartphone,Elektronik,Medan,3,10133456,E-Wallet,0.0,30400368.0,2025-01
+871,872,2025-02-04 15:24:43.861623,Monitor Curved,Periferal,Makassar,2,2871522,Credit Card,0.0,5743044.0,2025-02
+872,873,2025-04-22 15:24:43.861623,Smartwatch,Aksesoris,Makassar,4,2555227,E-Wallet,0.0,10220908.0,2025-04
+873,874,2025-01-12 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,9890709,Credit Card,0.05,28188520.65,2025-01
+874,875,2025-04-26 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,577912,Debit Card,0.1,1560362.4000000001,2025-04
+875,876,2025-01-25 15:24:43.861623,Monitor Curved,Periferal,Makassar,2,4181906,Debit Card,0.0,8363812.0,2025-01
+876,877,2025-02-05 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,11990884,Credit Card,0.0,47963536.0,2025-02
+877,878,2025-01-14 15:24:43.861623,Smartwatch,Aksesoris,Makassar,3,2200134,E-Wallet,0.0,6600402.0,2025-01
+878,879,2025-03-24 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,3,807732,Bank Transfer,0.0,2423196.0,2025-03
+879,880,2025-05-03 15:24:43.861623,Smartphone,Elektronik,Medan,3,4705243,Bank Transfer,0.05,13409942.549999999,2025-05
+880,881,2025-02-10 15:24:43.861623,Smartphone,Elektronik,Medan,2,7274692,Credit Card,0.05,13821914.799999999,2025-02
+881,882,2025-01-22 15:24:43.861623,Smartphone,Elektronik,Makassar,4,3239779,Debit Card,0.0,12959116.0,2025-01
+882,883,2025-05-22 15:24:43.861623,Smartwatch,Aksesoris,Makassar,4,1604850,Debit Card,0.0,6419400.0,2025-05
+883,884,2025-01-10 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,9289249,Bank Transfer,0.0,37156996.0,2025-01
+884,885,2025-01-22 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,2788140,Credit Card,0.1,10037304.0,2025-01
+885,886,2025-03-06 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,2669710,Bank Transfer,0.15,2269253.5,2025-03
+886,887,2025-05-15 15:24:43.861623,Laptop Gaming,Elektronik,Medan,1,22499412,E-Wallet,0.0,22499412.0,2025-05
+887,888,2025-03-05 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,2721770,E-Wallet,0.0,10887080.0,2025-03
+888,889,2025-04-16 15:24:43.861623,Smartphone,Elektronik,Medan,2,8333968,Credit Card,0.1,15001142.4,2025-04
+889,890,2025-05-23 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,694423,Credit Card,0.1,624980.7000000001,2025-05
+890,891,2025-04-18 15:24:43.861623,Smartwatch,Aksesoris,Medan,3,2318963,E-Wallet,0.0,6956889.0,2025-04
+891,892,2025-04-18 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,11325032,Debit Card,0.0,11325032.0,2025-04
+892,893,2025-01-31 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,3,890381,Credit Card,0.0,2671143.0,2025-01
+893,894,2025-04-18 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,4,18683909,E-Wallet,0.0,74735636.0,2025-04
+894,895,2025-01-05 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,16539600,E-Wallet,0.0,16539600.0,2025-01
+895,896,2025-06-14 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,10465106,Debit Card,0.0,20930212.0,2025-06
+896,897,2025-04-20 15:24:43.861623,Smartphone,Elektronik,Medan,1,8083801,Debit Card,0.0,8083801.0,2025-04
+897,898,2025-03-21 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,530351,Debit Card,0.0,530351.0,2025-03
+898,899,2025-02-08 15:24:43.861623,Smartphone,Elektronik,Jakarta,1,6070771,Debit Card,0.05,5767232.45,2025-02
+899,900,2025-06-15 15:24:43.861623,Smartphone,Elektronik,Denpasar,4,4143647,Bank Transfer,0.0,16574588.0,2025-06
+900,901,2025-04-08 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,1295909,Debit Card,0.0,2591818.0,2025-04
+901,902,2025-01-03 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,1,22156406,Bank Transfer,0.0,22156406.0,2025-01
+902,903,2025-06-26 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,2,1816953,Credit Card,0.0,3633906.0,2025-06
+903,904,2025-01-23 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,4,1590083,E-Wallet,0.15,5406282.2,2025-01
+904,905,2025-03-02 15:24:43.861623,Monitor Curved,Periferal,Makassar,3,4694245,Bank Transfer,0.0,14082735.0,2025-03
+905,906,2025-02-25 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,1,15421280,Credit Card,0.0,15421280.0,2025-02
+906,907,2025-04-16 15:24:43.861623,Smartphone,Elektronik,Medan,2,3909245,Credit Card,0.05,7427565.5,2025-04
+907,908,2025-04-28 15:24:43.861623,Smartphone,Elektronik,Jakarta,2,3341207,Bank Transfer,0.0,6682414.0,2025-04
+908,909,2025-01-30 15:24:43.861623,Monitor Curved,Periferal,Surabaya,4,3230746,Credit Card,0.1,11630685.6,2025-01
+909,910,2025-05-27 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,1,18289791,Credit Card,0.0,18289791.0,2025-05
+910,911,2025-01-18 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,3592632,Bank Transfer,0.0,10777896.0,2025-01
+911,912,2025-03-08 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,960881,Credit Card,0.0,1921762.0,2025-03
+912,913,2025-04-19 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,1,860592,Debit Card,0.0,860592.0,2025-04
+913,914,2025-01-01 15:24:43.861623,Smartphone,Elektronik,Denpasar,3,4162189,Debit Card,0.1,11237910.3,2025-01
+914,915,2025-04-01 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,20730385,E-Wallet,0.1,37314693.0,2025-04
+915,916,2025-03-13 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,2,814299,Credit Card,0.0,1628598.0,2025-03
+916,917,2025-02-28 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,17381486,E-Wallet,0.0,52144458.0,2025-02
+917,918,2025-04-01 15:24:43.861623,Smartwatch,Aksesoris,Medan,3,1931619,Debit Card,0.1,5215371.3,2025-04
+918,919,2025-04-02 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,6161900,Debit Card,0.1,22182840.0,2025-04
+919,920,2025-05-29 15:24:43.861623,Smartphone,Elektronik,Medan,1,8393455,Debit Card,0.0,8393455.0,2025-05
+920,921,2025-02-21 15:24:43.861623,Smartwatch,Aksesoris,Medan,1,825438,Credit Card,0.0,825438.0,2025-02
+921,922,2025-05-14 15:24:43.861623,Laptop Gaming,Elektronik,Medan,4,18770183,Credit Card,0.0,75080732.0,2025-05
+922,923,2025-05-08 15:24:43.861623,Smartphone,Elektronik,Makassar,2,10085904,Debit Card,0.1,18154627.2,2025-05
+923,924,2025-01-28 15:24:43.861623,Monitor Curved,Periferal,Denpasar,3,7436272,E-Wallet,0.0,22308816.0,2025-01
+924,925,2025-02-06 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,3,808288,E-Wallet,0.0,2424864.0,2025-02
+925,926,2025-02-02 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,3,2899391,Bank Transfer,0.05,8263264.35,2025-02
+926,927,2025-05-29 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,935719,Debit Card,0.0,1871438.0,2025-05
+927,928,2025-01-03 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,17801445,E-Wallet,0.0,53404335.0,2025-01
+928,929,2025-03-04 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,3,24196866,Debit Card,0.0,72590598.0,2025-03
+929,930,2025-03-13 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,21839789,E-Wallet,0.0,87359156.0,2025-03
+930,931,2025-01-01 15:24:43.861623,Smartphone,Elektronik,Surabaya,2,11570556,Bank Transfer,0.0,23141112.0,2025-01
+931,932,2025-03-17 15:24:43.861623,Smartphone,Elektronik,Makassar,1,5582814,Bank Transfer,0.0,5582814.0,2025-03
+932,933,2025-05-11 15:24:43.861623,Smartphone,Elektronik,Medan,4,6769457,Debit Card,0.0,27077828.0,2025-05
+933,934,2025-04-25 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,4206751,E-Wallet,0.0,16827004.0,2025-04
+934,935,2025-04-20 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,3953692,Credit Card,0.1,3558322.8000000003,2025-04
+935,936,2025-04-01 15:24:43.861623,Headphone Wireless,Aksesoris,Makassar,4,1485493,Bank Transfer,0.05,5644873.399999999,2025-04
+936,937,2025-06-25 15:24:43.861623,Monitor Curved,Periferal,Surabaya,2,2217770,Debit Card,0.0,4435540.0,2025-06
+937,938,2025-02-28 15:24:43.861623,Smartphone,Elektronik,Makassar,3,7099906,Debit Card,0.0,21299718.0,2025-02
+938,939,2025-03-17 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,1042613,E-Wallet,0.0,2085226.0,2025-03
+939,940,2025-05-13 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,1,1992201,Debit Card,0.0,1992201.0,2025-05
+940,941,2025-01-23 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,1,21969129,Bank Transfer,0.0,21969129.0,2025-01
+941,942,2025-06-25 15:24:43.861623,Monitor Curved,Periferal,Jakarta,4,4437245,Debit Card,0.05,16861531.0,2025-06
+942,943,2025-06-19 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,1322145,Debit Card,0.0,2644290.0,2025-06
+943,944,2025-02-10 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,905730,Credit Card,0.0,1811460.0,2025-02
+944,945,2025-05-10 15:24:43.861623,Smartphone,Elektronik,Medan,1,8301533,Credit Card,0.0,8301533.0,2025-05
+945,946,2025-03-08 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,2,618766,Bank Transfer,0.05,1175655.4,2025-03
+946,947,2025-05-31 15:24:43.861623,Smartphone,Elektronik,Medan,1,10417874,E-Wallet,0.0,10417874.0,2025-05
+947,948,2025-04-25 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,572647,Credit Card,0.05,1088029.3,2025-04
+948,949,2025-03-06 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,2881913,E-Wallet,0.0,5763826.0,2025-03
+949,950,2025-01-16 15:24:43.861623,Smartwatch,Aksesoris,Jakarta,2,2178768,Bank Transfer,0.1,3921782.4,2025-01
+950,951,2025-01-17 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,1,1098022,Credit Card,0.1,988219.8,2025-01
+951,952,2025-04-20 15:24:43.861623,Smartwatch,Aksesoris,Medan,4,2265213,E-Wallet,0.0,9060852.0,2025-04
+952,953,2025-05-17 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,2,20124674,Credit Card,0.0,40249348.0,2025-05
+953,954,2025-02-13 15:24:43.861623,Smartphone,Elektronik,Medan,1,11326435,Bank Transfer,0.0,11326435.0,2025-02
+954,955,2024-12-29 15:24:43.861623,Monitor Curved,Periferal,Surabaya,1,2688152,Bank Transfer,0.0,2688152.0,2024-12
+955,956,2025-03-28 15:24:43.861623,Smartphone,Elektronik,Denpasar,2,3402980,Credit Card,0.05,6465662.0,2025-03
+956,957,2025-05-19 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,24426944,E-Wallet,0.1,43968499.2,2025-05
+957,958,2025-03-02 15:24:43.861623,Laptop Gaming,Elektronik,Denpasar,4,24557540,Debit Card,0.05,93318652.0,2025-03
+958,959,2025-02-04 15:24:43.861623,Smartphone,Elektronik,Surabaya,1,10557260,Debit Card,0.1,9501534.0,2025-02
+959,960,2025-02-03 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,1,442727,Credit Card,0.0,442727.0,2025-02
+960,961,2025-05-03 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,3,640615,E-Wallet,0.0,1921845.0,2025-05
+961,962,2025-05-16 15:24:43.861623,Keyboard Mekanik,Periferal,Medan,1,1980932,Debit Card,0.05,1881885.4,2025-05
+962,963,2025-04-07 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,941211,Bank Transfer,0.0,3764844.0,2025-04
+963,964,2025-03-15 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,734376,E-Wallet,0.05,2092971.5999999999,2025-03
+964,965,2024-12-31 15:24:43.861623,Smartphone,Elektronik,Surabaya,3,5108542,Debit Card,0.0,15325626.0,2024-12
+965,966,2025-06-07 15:24:43.861623,Smartwatch,Aksesoris,Medan,3,1637635,E-Wallet,0.0,4912905.0,2025-06
+966,967,2025-05-11 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,18502626,Credit Card,0.15,31454464.2,2025-05
+967,968,2025-06-24 15:24:43.861623,Keyboard Mekanik,Periferal,Jakarta,2,1786689,E-Wallet,0.0,3573378.0,2025-06
+968,969,2025-01-07 15:24:43.861623,Monitor Curved,Periferal,Surabaya,1,5816126,Debit Card,0.15,4943707.1,2025-01
+969,970,2025-01-02 15:24:43.861623,Smartphone,Elektronik,Medan,3,5846230,Credit Card,0.15,14907886.5,2025-01
+970,971,2025-05-28 15:24:43.861623,Keyboard Mekanik,Periferal,Denpasar,4,1787784,E-Wallet,0.05,6793579.199999999,2025-05
+971,972,2025-05-15 15:24:43.861623,Monitor Curved,Periferal,Medan,2,4118433,Bank Transfer,0.05,7825022.699999999,2025-05
+972,973,2025-06-18 15:24:43.861623,Smartwatch,Aksesoris,Denpasar,4,2851341,Debit Card,0.0,11405364.0,2025-06
+973,974,2025-05-07 15:24:43.861623,Laptop Gaming,Elektronik,Makassar,4,20553535,Credit Card,0.1,73992726.0,2025-05
+974,975,2025-01-10 15:24:43.861623,Headphone Wireless,Aksesoris,Medan,2,662462,E-Wallet,0.0,1324924.0,2025-01
+975,976,2025-06-14 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,2,694597,Bank Transfer,0.0,1389194.0,2025-06
+976,977,2025-05-07 15:24:43.861623,Smartphone,Elektronik,Medan,2,9227018,Debit Card,0.05,17531334.2,2025-05
+977,978,2025-03-22 15:24:43.861623,Laptop Gaming,Elektronik,Medan,2,20000546,Bank Transfer,0.0,40001092.0,2025-03
+978,979,2025-03-03 15:24:43.861623,Monitor Curved,Periferal,Medan,3,3297991,E-Wallet,0.0,9893973.0,2025-03
+979,980,2025-03-01 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,3,21971138,E-Wallet,0.0,65913414.0,2025-03
+980,981,2025-04-08 15:24:43.861623,Headphone Wireless,Aksesoris,Surabaya,3,1390445,Credit Card,0.0,4171335.0,2025-04
+981,982,2025-03-11 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,3,957243,Bank Transfer,0.1,2584556.1,2025-03
+982,983,2025-01-14 15:24:43.861623,Keyboard Mekanik,Periferal,Surabaya,1,410207,Credit Card,0.0,410207.0,2025-01
+983,984,2025-01-06 15:24:43.861623,Smartphone,Elektronik,Jakarta,3,11607009,Debit Card,0.1,31338924.3,2025-01
+984,985,2025-05-20 15:24:43.861623,Keyboard Mekanik,Periferal,Makassar,2,1385132,Credit Card,0.05,2631750.8,2025-05
+985,986,2025-05-29 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,4,23547900,Debit Card,0.1,84772440.0,2025-05
+986,987,2025-02-04 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,3,22545189,E-Wallet,0.0,67635567.0,2025-02
+987,988,2025-06-09 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,1,1163937,E-Wallet,0.05,1105740.15,2025-06
+988,989,2025-04-01 15:24:43.861623,Smartphone,Elektronik,Medan,2,5681206,Bank Transfer,0.0,11362412.0,2025-04
+989,990,2025-04-02 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,9643433,Debit Card,0.1,34716358.800000004,2025-04
+990,991,2025-02-15 15:24:43.861623,Headphone Wireless,Aksesoris,Jakarta,4,487771,E-Wallet,0.0,1951084.0,2025-02
+991,992,2025-03-07 15:24:43.861623,Laptop Gaming,Elektronik,Medan,3,15237199,Bank Transfer,0.1,41140437.300000004,2025-03
+992,993,2025-02-28 15:24:43.861623,Smartphone,Elektronik,Surabaya,4,10290213,Bank Transfer,0.15,34986724.199999996,2025-02
+993,994,2025-06-24 15:24:43.861623,Headphone Wireless,Aksesoris,Denpasar,3,1060129,Credit Card,0.0,3180387.0,2025-06
+994,995,2025-03-16 15:24:43.861623,Monitor Curved,Periferal,Denpasar,3,4732481,Bank Transfer,0.0,14197443.0,2025-03
+995,996,2025-04-24 15:24:43.861623,Smartwatch,Aksesoris,Surabaya,2,1340473,E-Wallet,0.05,2546898.6999999997,2025-04
+996,997,2025-04-27 15:24:43.861623,Smartphone,Elektronik,Surabaya,2,5274316,Credit Card,0.0,10548632.0,2025-04
+997,998,2025-05-14 15:24:43.861623,Smartphone,Elektronik,Medan,1,3751518,Debit Card,0.1,3376366.2,2025-05
+998,999,2025-06-08 15:24:43.861623,Laptop Gaming,Elektronik,Jakarta,2,23227323,Debit Card,0.0,46454646.0,2025-06
+999,1000,2025-03-14 15:24:43.861623,Laptop Gaming,Elektronik,Surabaya,2,15513313,E-Wallet,0.0,31026626.0,2025-03
